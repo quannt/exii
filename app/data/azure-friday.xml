@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/styles/xslt/rss.xslt"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:c9="http://channel9.msdn.com">
+<channel>
+	<title>Azure Friday (HD) - Channel 9</title>
+    <atom:link rel="self" type="application/rss+xml" href="https://channel9.msdn.com/Shows/Azure-Friday/feed/mp4high"></atom:link>
+    <itunes:summary>Scott Hanselman sits down with the actual engineers who build Azure on his journey to learn how to program the cloud. No marketing, no BS, just two engineers and a laptop in short managable chunks. Join the conversation at http://Friday.Azure.com </itunes:summary>
+    <itunes:author>Microsoft</itunes:author>
+    <itunes:subtitle></itunes:subtitle>
+    <image>
+      <url>http://files.channel9.msdn.com/thumbnail/a5c7cd91-1a04-45ff-9822-a1197ee46841.png</url>
+      <title>Azure Friday (HD) - Channel 9</title>
+      <link>https://channel9.msdn.com/Shows/Azure-Friday</link>
+    </image>
+    <itunes:image href="http://files.channel9.msdn.com/thumbnail/e9aa11bb-06be-42ab-93e0-45640e23fa2c.png"></itunes:image>
+    <itunes:category text="Technology"></itunes:category>
+    <description>Scott Hanselman sits down with the actual engineers who build Microsoft Azure on his journey to learn how to program the cloud. No marketing, no BS, just two engineers and a laptop in short managable chunks. Join the conversation at http://Friday.Azure.com </description>
+    <link>https://channel9.msdn.com/Shows/Azure-Friday</link>
+    <language>en</language>
+    <pubDate>Thu, 16 Jul 2015 08:04:47 GMT</pubDate>
+    <lastBuildDate>Thu, 16 Jul 2015 08:04:47 GMT</lastBuildDate>
+    <generator>Rev9</generator>
+    <c9:totalResults>179</c9:totalResults>
+    <c9:pageCount>8</c9:pageCount>
+    <c9:pageSize>25</c9:pageSize>
+  <item>
+      <title>Announcing Apache Spark on Azure HDInsight</title>
+      <description><![CDATA[<p>Scott talks to Asad Khan about the addition of Apache Spark on Azure HDInsight. Apache Spark is a unified, open source, parallel data processing framework for Big Data Analytics.&nbsp;Spark brings together batch processing, real-time&nbsp;processing, stream analytics, machine learning, and interactive SQL&nbsp;and Azure makes&nbsp;Spark&nbsp;&quot;Software as a Service.&quot; It's a great time for you to&nbsp;jump into the&nbsp;world of Big Data on Azure.</p> <img src="http://m.webtrends.com/dcs1wotjh10000w0irc493s0e_6x1g/njs.gif?dcssip=channel9.msdn.com&dcsuri=https://channel9.msdn.com/Shows/Azure-Friday/feed/mp4high&WT.dl=0&WT.entryid=Entry:RSSView:3ff9e744b0e14c37ac92a4ce01861438">]]></description>
+      <comments>https://channel9.msdn.com/Shows/Azure-Friday/Announcing-Apache-Spark-on-Azure-HDInsight</comments>
+      <itunes:summary>Scott talks to Asad Khan about the addition of Apache Spark on Azure HDInsight. Apache Spark is a unified, open source, parallel data processing framework for Big Data Analytics. Spark brings together batch processing, real-time processing, stream analytics, machine learning, and interactive SQL and Azure makes Spark &amp;quot;Software as a Service.&amp;quot; It&#39;s a great time for you to jump into the world of Big Data on Azure. </itunes:summary>
+      <itunes:duration>1250</itunes:duration>
+      <link>https://channel9.msdn.com/Shows/Azure-Friday/Announcing-Apache-Spark-on-Azure-HDInsight</link>
+      <pubDate>Thu, 09 Jul 2015 23:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://channel9.msdn.com/Shows/Azure-Friday/Announcing-Apache-Spark-on-Azure-HDInsight</guid>
+      <media:thumbnail url="http://video.ch9.ms/ch9/7614/3379fe52-77bd-47a8-9e5c-96c9a8ee7614/AzureFridayApacheSpark_100.jpg" height="56" width="100"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/7614/3379fe52-77bd-47a8-9e5c-96c9a8ee7614/AzureFridayApacheSpark_220.jpg" height="123" width="220"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/7614/3379fe52-77bd-47a8-9e5c-96c9a8ee7614/AzureFridayApacheSpark_512.jpg" height="288" width="512"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/7614/3379fe52-77bd-47a8-9e5c-96c9a8ee7614/AzureFridayApacheSpark_960.jpg" height="540" width="960"></media:thumbnail>
+      <media:group>
+        <media:content url="http://video.ch9.ms/ch9/7614/3379fe52-77bd-47a8-9e5c-96c9a8ee7614/AzureFridayApacheSpark.mp3" expression="full" duration="1250" fileSize="20015400" type="audio/mp3" medium="audio"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/7614/3379fe52-77bd-47a8-9e5c-96c9a8ee7614/AzureFridayApacheSpark.mp4" expression="full" duration="1250" fileSize="27893360" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/7614/3379fe52-77bd-47a8-9e5c-96c9a8ee7614/AzureFridayApacheSpark.webm" expression="full" duration="1250" fileSize="66257526" type="video/webm" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/7614/3379fe52-77bd-47a8-9e5c-96c9a8ee7614/AzureFridayApacheSpark_high.mp4" expression="full" duration="1250" fileSize="149154918" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/7614/3379fe52-77bd-47a8-9e5c-96c9a8ee7614/AzureFridayApacheSpark_mid.mp4" expression="full" duration="1250" fileSize="82637321" type="video/mp4" medium="video"></media:content>
+      </media:group>      
+      <enclosure url="http://video.ch9.ms/ch9/7614/3379fe52-77bd-47a8-9e5c-96c9a8ee7614/AzureFridayApacheSpark_high.mp4" length="149154918" type="video/mp4"></enclosure>
+      <dc:creator>Scott Hanselman</dc:creator>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <slash:comments>1</slash:comments>
+      <wfw:commentRss>https://channel9.msdn.com/Shows/Azure-Friday/Announcing-Apache-Spark-on-Azure-HDInsight/RSS</wfw:commentRss>
+      <category>Azure</category>
+    </item>
+  <item>
+      <title>Azure Media Indexer automatically creates transcripts for your media - with Adarsh Solanki </title>
+      <description><![CDATA[<p>Scott talks to&nbsp;Adarsh Solanki about an&nbsp;amazing Azure&nbsp;Media Services feature - Azure Media Indexer! Azure Media&nbsp;Indexer will automatically create standard-format transcript from your audio or video files! You can upload hours of video and have captioning created, then seek, search, and automatically&nbsp;jump to where&nbsp;someone said&nbsp;a word or term! Where did someone say Hololens in a BUILD keynote? Media Indexer has the answer.</p> <img src="http://m.webtrends.com/dcs1wotjh10000w0irc493s0e_6x1g/njs.gif?dcssip=channel9.msdn.com&dcsuri=https://channel9.msdn.com/Shows/Azure-Friday/feed/mp4high&WT.dl=0&WT.entryid=Entry:RSSView:486f2a41b63e4b56a494a4ce0175a2b1">]]></description>
+      <comments>https://channel9.msdn.com/Shows/Azure-Friday/Azure-Media-Indexer-autoatically-creates-transcripts-for-your-media-with-Adarsh-Solanki</comments>
+      <itunes:summary>Scott talks to Adarsh Solanki about an amazing Azure Media Services feature - Azure Media Indexer! Azure Media Indexer will automatically create standard-format transcript from your audio or video files! You can upload hours of video and have captioning created, then seek, search, and automatically jump to where someone said a word or term! Where did someone say Hololens in a BUILD keynote? Media Indexer has the answer. </itunes:summary>
+      <itunes:duration>612</itunes:duration>
+      <link>https://channel9.msdn.com/Shows/Azure-Friday/Azure-Media-Indexer-autoatically-creates-transcripts-for-your-media-with-Adarsh-Solanki</link>
+      <pubDate>Thu, 09 Jul 2015 23:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://channel9.msdn.com/Shows/Azure-Friday/Azure-Media-Indexer-autoatically-creates-transcripts-for-your-media-with-Adarsh-Solanki</guid>
+      <media:thumbnail url="http://video.ch9.ms/ch9/51b4/e327555b-944d-4c95-864f-ca9aacef51b4/AzureFridayAzureMediaIndexer_100.jpg" height="56" width="100"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/51b4/e327555b-944d-4c95-864f-ca9aacef51b4/AzureFridayAzureMediaIndexer_220.jpg" height="123" width="220"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/51b4/e327555b-944d-4c95-864f-ca9aacef51b4/AzureFridayAzureMediaIndexer_512.jpg" height="288" width="512"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/51b4/e327555b-944d-4c95-864f-ca9aacef51b4/AzureFridayAzureMediaIndexer_960.jpg" height="540" width="960"></media:thumbnail>
+      <media:group>
+        <media:content url="http://video.ch9.ms/ch9/51b4/e327555b-944d-4c95-864f-ca9aacef51b4/AzureFridayAzureMediaIndexer.mp3" expression="full" duration="612" fileSize="9802250" type="audio/mp3" medium="audio"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/51b4/e327555b-944d-4c95-864f-ca9aacef51b4/AzureFridayAzureMediaIndexer.mp4" expression="full" duration="612" fileSize="19857612" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/51b4/e327555b-944d-4c95-864f-ca9aacef51b4/AzureFridayAzureMediaIndexer.webm" expression="full" duration="612" fileSize="51870373" type="video/webm" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/51b4/e327555b-944d-4c95-864f-ca9aacef51b4/AzureFridayAzureMediaIndexer_high.mp4" expression="full" duration="612" fileSize="283084823" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/51b4/e327555b-944d-4c95-864f-ca9aacef51b4/AzureFridayAzureMediaIndexer_mid.mp4" expression="full" duration="612" fileSize="62112664" type="video/mp4" medium="video"></media:content>
+      </media:group>      
+      <enclosure url="http://video.ch9.ms/ch9/51b4/e327555b-944d-4c95-864f-ca9aacef51b4/AzureFridayAzureMediaIndexer_high.mp4" length="283084823" type="video/mp4"></enclosure>
+      <dc:creator>Scott Hanselman</dc:creator>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <slash:comments>2</slash:comments>
+      <wfw:commentRss>https://channel9.msdn.com/Shows/Azure-Friday/Azure-Media-Indexer-autoatically-creates-transcripts-for-your-media-with-Adarsh-Solanki/RSS</wfw:commentRss>
+      <category>Azure</category>
+    </item>
+  <item>
+      <title>Intro to Machine Learning with Seth Juarez</title>
+      <description><![CDATA[<p>Channel 9's&nbsp;own Seth Juarez comes to lay down the knowledge and get Scott&nbsp;up to speed on&nbsp;Azure Machine Learning 101.</p> <img src="http://m.webtrends.com/dcs1wotjh10000w0irc493s0e_6x1g/njs.gif?dcssip=channel9.msdn.com&dcsuri=https://channel9.msdn.com/Shows/Azure-Friday/feed/mp4high&WT.dl=0&WT.entryid=Entry:RSSView:e3a7bbf1acdd438f806ea4c30068c093">]]></description>
+      <comments>https://channel9.msdn.com/Shows/Azure-Friday/Intro-to-Machine-Learning-with-Seth-Juarez</comments>
+      <itunes:summary>Channel 9&#39;s own Seth Juarez comes to lay down the knowledge and get Scott up to speed on Azure Machine Learning 101. </itunes:summary>
+      <itunes:duration>976</itunes:duration>
+      <link>https://channel9.msdn.com/Shows/Azure-Friday/Intro-to-Machine-Learning-with-Seth-Juarez</link>
+      <pubDate>Thu, 02 Jul 2015 23:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://channel9.msdn.com/Shows/Azure-Friday/Intro-to-Machine-Learning-with-Seth-Juarez</guid>
+      <media:thumbnail url="http://video.ch9.ms/ch9/8e7e/0b83ac95-8d22-44c9-9ad5-7b0dbf138e7e/AzureMachineLearning101_100.jpg" height="56" width="100"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/8e7e/0b83ac95-8d22-44c9-9ad5-7b0dbf138e7e/AzureMachineLearning101_220.jpg" height="123" width="220"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/8e7e/0b83ac95-8d22-44c9-9ad5-7b0dbf138e7e/AzureMachineLearning101_512.jpg" height="288" width="512"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/8e7e/0b83ac95-8d22-44c9-9ad5-7b0dbf138e7e/AzureMachineLearning101_960.jpg" height="540" width="960"></media:thumbnail>
+      <media:group>
+        <media:content url="http://video.ch9.ms/ch9/8e7e/0b83ac95-8d22-44c9-9ad5-7b0dbf138e7e/AzureMachineLearning101.mp3" expression="full" duration="976" fileSize="15630123" type="audio/mp3" medium="audio"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/8e7e/0b83ac95-8d22-44c9-9ad5-7b0dbf138e7e/AzureMachineLearning101.mp4" expression="full" duration="976" fileSize="33221445" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/8e7e/0b83ac95-8d22-44c9-9ad5-7b0dbf138e7e/AzureMachineLearning101.webm" expression="full" duration="976" fileSize="90864990" type="video/webm" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/8e7e/0b83ac95-8d22-44c9-9ad5-7b0dbf138e7e/AzureMachineLearning101_high.mp4" expression="full" duration="976" fileSize="205932378" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/8e7e/0b83ac95-8d22-44c9-9ad5-7b0dbf138e7e/AzureMachineLearning101_mid.mp4" expression="full" duration="976" fileSize="122531418" type="video/mp4" medium="video"></media:content>
+      </media:group>      
+      <enclosure url="http://video.ch9.ms/ch9/8e7e/0b83ac95-8d22-44c9-9ad5-7b0dbf138e7e/AzureMachineLearning101_high.mp4" length="205932378" type="video/mp4"></enclosure>
+      <dc:creator>Scott Hanselman</dc:creator>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <slash:comments>0</slash:comments>
+      <wfw:commentRss>https://channel9.msdn.com/Shows/Azure-Friday/Intro-to-Machine-Learning-with-Seth-Juarez/RSS</wfw:commentRss>
+      <category>Azure</category>
+    </item>
+  <item>
+      <title>What&#39;s new with the Azure CDN - June 2015</title>
+      <description><![CDATA[<p>Manling Zhang comes to Azure Friday to&nbsp;tell Scott about recent updates to the Azure CDN.&nbsp;</p> <img src="http://m.webtrends.com/dcs1wotjh10000w0irc493s0e_6x1g/njs.gif?dcssip=channel9.msdn.com&dcsuri=https://channel9.msdn.com/Shows/Azure-Friday/feed/mp4high&WT.dl=0&WT.entryid=Entry:RSSView:d9265e4f2b884968a09aa4c3006514ba">]]></description>
+      <comments>https://channel9.msdn.com/Shows/Azure-Friday/Whats-new-with-the-Azure-CDN-June-2015</comments>
+      <itunes:summary>Manling Zhang comes to Azure Friday to tell Scott about recent updates to the Azure CDN.  </itunes:summary>
+      <itunes:duration>622</itunes:duration>
+      <link>https://channel9.msdn.com/Shows/Azure-Friday/Whats-new-with-the-Azure-CDN-June-2015</link>
+      <pubDate>Thu, 02 Jul 2015 23:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://channel9.msdn.com/Shows/Azure-Friday/Whats-new-with-the-Azure-CDN-June-2015</guid>
+      <media:thumbnail url="http://video.ch9.ms/ch9/86dd/8e6abfbe-4a89-47e8-afd8-d0abbe4386dd/AzureCDN201506_100.jpg" height="56" width="100"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/86dd/8e6abfbe-4a89-47e8-afd8-d0abbe4386dd/AzureCDN201506_220.jpg" height="123" width="220"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/86dd/8e6abfbe-4a89-47e8-afd8-d0abbe4386dd/AzureCDN201506_512.jpg" height="288" width="512"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/86dd/8e6abfbe-4a89-47e8-afd8-d0abbe4386dd/AzureCDN201506_960.jpg" height="540" width="960"></media:thumbnail>
+      <media:group>
+        <media:content url="http://video.ch9.ms/ch9/86dd/8e6abfbe-4a89-47e8-afd8-d0abbe4386dd/AzureCDN201506.mp3" expression="full" duration="622" fileSize="9956327" type="audio/mp3" medium="audio"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/86dd/8e6abfbe-4a89-47e8-afd8-d0abbe4386dd/AzureCDN201506.mp4" expression="full" duration="622" fileSize="17916427" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/86dd/8e6abfbe-4a89-47e8-afd8-d0abbe4386dd/AzureCDN201506.webm" expression="full" duration="622" fileSize="47918935" type="video/webm" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/86dd/8e6abfbe-4a89-47e8-afd8-d0abbe4386dd/AzureCDN201506_high.mp4" expression="full" duration="622" fileSize="140324756" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/86dd/8e6abfbe-4a89-47e8-afd8-d0abbe4386dd/AzureCDN201506_mid.mp4" expression="full" duration="622" fileSize="75062248" type="video/mp4" medium="video"></media:content>
+      </media:group>      
+      <enclosure url="http://video.ch9.ms/ch9/86dd/8e6abfbe-4a89-47e8-afd8-d0abbe4386dd/AzureCDN201506_high.mp4" length="140324756" type="video/mp4"></enclosure>
+      <dc:creator>Scott Hanselman</dc:creator>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <slash:comments>0</slash:comments>
+      <wfw:commentRss>https://channel9.msdn.com/Shows/Azure-Friday/Whats-new-with-the-Azure-CDN-June-2015/RSS</wfw:commentRss>
+      <category>Azure</category>
+    </item>
+  <item>
+      <title>Managing Large amounts of Data Throughput using Azure Event Hubs with Nicole Berdy</title>
+      <description><![CDATA[<p>Nicole Berdy comes to Azure Friday to&nbsp;educate Scott about how Azure Event Hubs can be used to&nbsp;handle an influx of HUGE amounts of data. What techniques and tools do you need&nbsp;to use to consume&nbsp;data quickly and effectively?</p> <img src="http://m.webtrends.com/dcs1wotjh10000w0irc493s0e_6x1g/njs.gif?dcssip=channel9.msdn.com&dcsuri=https://channel9.msdn.com/Shows/Azure-Friday/feed/mp4high&WT.dl=0&WT.entryid=Entry:RSSView:a94b561757d24632950ba4c3005e9b99">]]></description>
+      <comments>https://channel9.msdn.com/Shows/Azure-Friday/Managing-Large-amounts-of-Data-Throughput-using-Azure-Event-Hubs-with-Nicole-Berdy</comments>
+      <itunes:summary>Nicole Berdy comes to Azure Friday to educate Scott about how Azure Event Hubs can be used to handle an influx of HUGE amounts of data. What techniques and tools do you need to use to consume data quickly and effectively? </itunes:summary>
+      <itunes:duration>732</itunes:duration>
+      <link>https://channel9.msdn.com/Shows/Azure-Friday/Managing-Large-amounts-of-Data-Throughput-using-Azure-Event-Hubs-with-Nicole-Berdy</link>
+      <pubDate>Thu, 25 Jun 2015 23:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://channel9.msdn.com/Shows/Azure-Friday/Managing-Large-amounts-of-Data-Throughput-using-Azure-Event-Hubs-with-Nicole-Berdy</guid>
+      <media:thumbnail url="http://video.ch9.ms/ch9/babb/8283067a-2c68-4547-853c-41cf1042babb/AzureEventHubsThroughput_100.jpg" height="56" width="100"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/babb/8283067a-2c68-4547-853c-41cf1042babb/AzureEventHubsThroughput_220.jpg" height="123" width="220"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/babb/8283067a-2c68-4547-853c-41cf1042babb/AzureEventHubsThroughput_512.jpg" height="288" width="512"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/babb/8283067a-2c68-4547-853c-41cf1042babb/AzureEventHubsThroughput_960.jpg" height="540" width="960"></media:thumbnail>
+      <media:group>
+        <media:content url="http://video.ch9.ms/ch9/babb/8283067a-2c68-4547-853c-41cf1042babb/AzureEventHubsThroughput.mp3" expression="full" duration="732" fileSize="11721867" type="audio/mp3" medium="audio"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/babb/8283067a-2c68-4547-853c-41cf1042babb/AzureEventHubsThroughput.mp4" expression="full" duration="732" fileSize="24299585" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/babb/8283067a-2c68-4547-853c-41cf1042babb/AzureEventHubsThroughput.webm" expression="full" duration="732" fileSize="77754464" type="video/webm" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/babb/8283067a-2c68-4547-853c-41cf1042babb/AzureEventHubsThroughput_high.mp4" expression="full" duration="732" fileSize="263727583" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/babb/8283067a-2c68-4547-853c-41cf1042babb/AzureEventHubsThroughput_mid.mp4" expression="full" duration="732" fileSize="139927546" type="video/mp4" medium="video"></media:content>
+      </media:group>      
+      <enclosure url="http://video.ch9.ms/ch9/babb/8283067a-2c68-4547-853c-41cf1042babb/AzureEventHubsThroughput_high.mp4" length="263727583" type="video/mp4"></enclosure>
+      <dc:creator>Scott Hanselman</dc:creator>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <slash:comments>0</slash:comments>
+      <wfw:commentRss>https://channel9.msdn.com/Shows/Azure-Friday/Managing-Large-amounts-of-Data-Throughput-using-Azure-Event-Hubs-with-Nicole-Berdy/RSS</wfw:commentRss>
+      <category>Azure</category>
+    </item>
+  <item>
+      <title>Treating the Azure CLI as a Docker Container to speed development</title>
+      <description><![CDATA[<p>Scott talks to Khalid Mouss about how install the Azure CLI into a&nbsp;Docker Container. This means&nbsp;your Azure&nbsp;Command Line Interface setup is completely portable and easily installable, anywhere!</p> <img src="http://m.webtrends.com/dcs1wotjh10000w0irc493s0e_6x1g/njs.gif?dcssip=channel9.msdn.com&dcsuri=https://channel9.msdn.com/Shows/Azure-Friday/feed/mp4high&WT.dl=0&WT.entryid=Entry:RSSView:2caf7ff9c9054d4e80c7a4c3005d9ef1">]]></description>
+      <comments>https://channel9.msdn.com/Shows/Azure-Friday/Treating-the-Azure-CLI-as-a-Docker-Containers-to-speed-development</comments>
+      <itunes:summary>Scott talks to Khalid Mouss about how install the Azure CLI into a Docker Container. This means your Azure Command Line Interface setup is completely portable and easily installable, anywhere! </itunes:summary>
+      <itunes:duration>728</itunes:duration>
+      <link>https://channel9.msdn.com/Shows/Azure-Friday/Treating-the-Azure-CLI-as-a-Docker-Containers-to-speed-development</link>
+      <pubDate>Thu, 25 Jun 2015 23:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://channel9.msdn.com/Shows/Azure-Friday/Treating-the-Azure-CLI-as-a-Docker-Containers-to-speed-development</guid>
+      <media:thumbnail url="http://video.ch9.ms/ch9/6c45/bda0256d-e980-40b7-95b4-bf53e5bd6c45/AzureCLIinDocker_100.jpg" height="56" width="100"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/6c45/bda0256d-e980-40b7-95b4-bf53e5bd6c45/AzureCLIinDocker_220.jpg" height="123" width="220"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/6c45/bda0256d-e980-40b7-95b4-bf53e5bd6c45/AzureCLIinDocker_512.jpg" height="288" width="512"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/6c45/bda0256d-e980-40b7-95b4-bf53e5bd6c45/AzureCLIinDocker_960.jpg" height="540" width="960"></media:thumbnail>
+      <media:group>
+        <media:content url="http://video.ch9.ms/ch9/6c45/bda0256d-e980-40b7-95b4-bf53e5bd6c45/AzureCLIinDocker.mp3" expression="full" duration="728" fileSize="11652454" type="audio/mp3" medium="audio"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/6c45/bda0256d-e980-40b7-95b4-bf53e5bd6c45/AzureCLIinDocker.mp4" expression="full" duration="728" fileSize="24169767" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/6c45/bda0256d-e980-40b7-95b4-bf53e5bd6c45/AzureCLIinDocker.webm" expression="full" duration="728" fileSize="71287125" type="video/webm" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/6c45/bda0256d-e980-40b7-95b4-bf53e5bd6c45/AzureCLIinDocker_high.mp4" expression="full" duration="728" fileSize="125948028" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/6c45/bda0256d-e980-40b7-95b4-bf53e5bd6c45/AzureCLIinDocker_mid.mp4" expression="full" duration="728" fileSize="79417147" type="video/mp4" medium="video"></media:content>
+      </media:group>      
+      <enclosure url="http://video.ch9.ms/ch9/6c45/bda0256d-e980-40b7-95b4-bf53e5bd6c45/AzureCLIinDocker_high.mp4" length="125948028" type="video/mp4"></enclosure>
+      <dc:creator>Scott Hanselman</dc:creator>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <slash:comments>0</slash:comments>
+      <wfw:commentRss>https://channel9.msdn.com/Shows/Azure-Friday/Treating-the-Azure-CLI-as-a-Docker-Containers-to-speed-development/RSS</wfw:commentRss>
+      <category>Azure</category>
+    </item>
+  <item>
+      <title>Azure Web App Log Streaming with Scott Hanselman</title>
+      <description><![CDATA[<p>Scott is flying solo in this episode. He digs into Web Apps and how you can use Log Streaming to listen in on what's really happening with your Web Applications running on Azure. From File New Project all the way to connecting to the production log streaming service, this video will show you features you may be not exploiting fully today!</p> <img src="http://m.webtrends.com/dcs1wotjh10000w0irc493s0e_6x1g/njs.gif?dcssip=channel9.msdn.com&dcsuri=https://channel9.msdn.com/Shows/Azure-Friday/feed/mp4high&WT.dl=0&WT.entryid=Entry:RSSView:2cc3f7bed48f488f96dea4b9016e380e">]]></description>
+      <comments>https://channel9.msdn.com/Shows/Azure-Friday/Azure-Web-App-Log-Streaming-with-Scott-Hanselman</comments>
+      <itunes:summary>Scott is flying solo in this episode. He digs into Web Apps and how you can use Log Streaming to listen in on what&#39;s really happening with your Web Applications running on Azure. From File New Project all the way to connecting to the production log streaming service, this video will show you features you may be not exploiting fully today! </itunes:summary>
+      <itunes:duration>578</itunes:duration>
+      <link>https://channel9.msdn.com/Shows/Azure-Friday/Azure-Web-App-Log-Streaming-with-Scott-Hanselman</link>
+      <pubDate>Thu, 18 Jun 2015 23:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://channel9.msdn.com/Shows/Azure-Friday/Azure-Web-App-Log-Streaming-with-Scott-Hanselman</guid>
+      <media:thumbnail url="http://video.ch9.ms/ch9/94f2/5f3a348f-453a-4dfa-9267-c26bfab194f2/AzureFridayWebAppLogStreaming_100.jpg" height="56" width="100"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/94f2/5f3a348f-453a-4dfa-9267-c26bfab194f2/AzureFridayWebAppLogStreaming_220.jpg" height="123" width="220"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/94f2/5f3a348f-453a-4dfa-9267-c26bfab194f2/AzureFridayWebAppLogStreaming_512.jpg" height="288" width="512"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/94f2/5f3a348f-453a-4dfa-9267-c26bfab194f2/AzureFridayWebAppLogStreaming_960.jpg" height="540" width="960"></media:thumbnail>
+      <media:group>
+        <media:content url="http://video.ch9.ms/ch9/94f2/5f3a348f-453a-4dfa-9267-c26bfab194f2/AzureFridayWebAppLogStreaming.mp3" expression="full" duration="578" fileSize="9259183" type="audio/mp3" medium="audio"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/94f2/5f3a348f-453a-4dfa-9267-c26bfab194f2/AzureFridayWebAppLogStreaming.mp4" expression="full" duration="578" fileSize="16431708" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/94f2/5f3a348f-453a-4dfa-9267-c26bfab194f2/AzureFridayWebAppLogStreaming.webm" expression="full" duration="578" fileSize="42944367" type="video/webm" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/94f2/5f3a348f-453a-4dfa-9267-c26bfab194f2/AzureFridayWebAppLogStreaming_high.mp4" expression="full" duration="578" fileSize="64992993" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/94f2/5f3a348f-453a-4dfa-9267-c26bfab194f2/AzureFridayWebAppLogStreaming_mid.mp4" expression="full" duration="578" fileSize="43997230" type="video/mp4" medium="video"></media:content>
+      </media:group>      
+      <enclosure url="http://video.ch9.ms/ch9/94f2/5f3a348f-453a-4dfa-9267-c26bfab194f2/AzureFridayWebAppLogStreaming_high.mp4" length="64992993" type="video/mp4"></enclosure>
+      <dc:creator>Scott Hanselman</dc:creator>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <slash:comments>1</slash:comments>
+      <wfw:commentRss>https://channel9.msdn.com/Shows/Azure-Friday/Azure-Web-App-Log-Streaming-with-Scott-Hanselman/RSS</wfw:commentRss>
+      <category>Azure</category>
+    </item>
+  <item>
+      <title>The HTTP Platform Handler with Scott Hanselman</title>
+      <description><![CDATA[<p>Hey, it's Scott...by himself! In this episode Scott goes solo to talk&nbsp;about the IIS8&#43; module called the HttpPlatformHandler. It exists so Azure can run Java but now&nbsp;its existence means we've got a generic&nbsp;reverse proxy mechanism for IIS both in Azure AND outside Azure! Let's see if this means we can run Ruby or F# or&nbsp;anything we like!</p> <img src="http://m.webtrends.com/dcs1wotjh10000w0irc493s0e_6x1g/njs.gif?dcssip=channel9.msdn.com&dcsuri=https://channel9.msdn.com/Shows/Azure-Friday/feed/mp4high&WT.dl=0&WT.entryid=Entry:RSSView:711f220361a84f53a353a4b9016d83f8">]]></description>
+      <comments>https://channel9.msdn.com/Shows/Azure-Friday/The-HTTP-Platform-Handler-with-Scott-Hanselman</comments>
+      <itunes:summary>Hey, it&#39;s Scott...by himself! In this episode Scott goes solo to talk about the IIS8&amp;#43; module called the HttpPlatformHandler. It exists so Azure can run Java but now its existence means we&#39;ve got a generic reverse proxy mechanism for IIS both in Azure AND outside Azure! Let&#39;s see if this means we can run Ruby or F# or anything we like! </itunes:summary>
+      <itunes:duration>475</itunes:duration>
+      <link>https://channel9.msdn.com/Shows/Azure-Friday/The-HTTP-Platform-Handler-with-Scott-Hanselman</link>
+      <pubDate>Thu, 18 Jun 2015 23:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://channel9.msdn.com/Shows/Azure-Friday/The-HTTP-Platform-Handler-with-Scott-Hanselman</guid>
+      <media:thumbnail url="http://video.ch9.ms/ch9/60e5/54b95e17-8bc1-4a03-8504-efe6128460e5/AzureFridayHttpPlatformHandler_100.jpg" height="56" width="100"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/60e5/54b95e17-8bc1-4a03-8504-efe6128460e5/AzureFridayHttpPlatformHandler_220.jpg" height="123" width="220"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/60e5/54b95e17-8bc1-4a03-8504-efe6128460e5/AzureFridayHttpPlatformHandler_512.jpg" height="288" width="512"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/60e5/54b95e17-8bc1-4a03-8504-efe6128460e5/AzureFridayHttpPlatformHandler_960.jpg" height="540" width="960"></media:thumbnail>
+      <media:group>
+        <media:content url="http://video.ch9.ms/ch9/60e5/54b95e17-8bc1-4a03-8504-efe6128460e5/AzureFridayHttpPlatformHandler.mp3" expression="full" duration="475" fileSize="7605733" type="audio/mp3" medium="audio"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/60e5/54b95e17-8bc1-4a03-8504-efe6128460e5/AzureFridayHttpPlatformHandler.mp4" expression="full" duration="475" fileSize="16056237" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/60e5/54b95e17-8bc1-4a03-8504-efe6128460e5/AzureFridayHttpPlatformHandler.webm" expression="full" duration="475" fileSize="45489891" type="video/webm" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/60e5/54b95e17-8bc1-4a03-8504-efe6128460e5/AzureFridayHttpPlatformHandler_high.mp4" expression="full" duration="475" fileSize="76606378" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/60e5/54b95e17-8bc1-4a03-8504-efe6128460e5/AzureFridayHttpPlatformHandler_mid.mp4" expression="full" duration="475" fileSize="48929219" type="video/mp4" medium="video"></media:content>
+      </media:group>      
+      <enclosure url="http://video.ch9.ms/ch9/60e5/54b95e17-8bc1-4a03-8504-efe6128460e5/AzureFridayHttpPlatformHandler_high.mp4" length="76606378" type="video/mp4"></enclosure>
+      <dc:creator>Scott Hanselman</dc:creator>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <slash:comments>2</slash:comments>
+      <wfw:commentRss>https://channel9.msdn.com/Shows/Azure-Friday/The-HTTP-Platform-Handler-with-Scott-Hanselman/RSS</wfw:commentRss>
+      <category>Azure</category>
+    </item>
+  <item>
+      <title>The Docker Visual Studio Extension with Ahmet Alp Balkan</title>
+      <description><![CDATA[<p>Scott talks to&nbsp;Ahmet Alp Balkan about Docker and how it integrates with Visual Studio using an extension.&nbsp;You'll see how you can create and&nbsp;install docker onto&nbsp;Virtual&nbsp;Machines in Azure easily. Then we'll create an&nbsp;ASP.NET 5 application and&nbsp;publish it to&nbsp;Docker on a VM running Linux in Azure.</p> <img src="http://m.webtrends.com/dcs1wotjh10000w0irc493s0e_6x1g/njs.gif?dcssip=channel9.msdn.com&dcsuri=https://channel9.msdn.com/Shows/Azure-Friday/feed/mp4high&WT.dl=0&WT.entryid=Entry:RSSView:b3f5250fd9784933a86fa4b3011fcd92">]]></description>
+      <comments>https://channel9.msdn.com/Shows/Azure-Friday/The-Docker-Visual-Studio-Extension-with-Ahmet-Alp-Balkan</comments>
+      <itunes:summary>Scott talks to Ahmet Alp Balkan about Docker and how it integrates with Visual Studio using an extension. You&#39;ll see how you can create and install docker onto Virtual Machines in Azure easily. Then we&#39;ll create an ASP.NET 5 application and publish it to Docker on a VM running Linux in Azure. </itunes:summary>
+      <itunes:duration>821</itunes:duration>
+      <link>https://channel9.msdn.com/Shows/Azure-Friday/The-Docker-Visual-Studio-Extension-with-Ahmet-Alp-Balkan</link>
+      <pubDate>Thu, 11 Jun 2015 23:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://channel9.msdn.com/Shows/Azure-Friday/The-Docker-Visual-Studio-Extension-with-Ahmet-Alp-Balkan</guid>
+      <media:thumbnail url="http://video.ch9.ms/ch9/8fb6/f9e566a3-1867-4e32-8763-5ccb3a5f8fb6/AzureFridayDockerVisualStudio_100.jpg" height="56" width="100"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/8fb6/f9e566a3-1867-4e32-8763-5ccb3a5f8fb6/AzureFridayDockerVisualStudio_220.jpg" height="123" width="220"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/8fb6/f9e566a3-1867-4e32-8763-5ccb3a5f8fb6/AzureFridayDockerVisualStudio_512.jpg" height="288" width="512"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/8fb6/f9e566a3-1867-4e32-8763-5ccb3a5f8fb6/AzureFridayDockerVisualStudio_960.jpg" height="540" width="960"></media:thumbnail>
+      <media:group>
+        <media:content url="http://video.ch9.ms/ch9/8fb6/f9e566a3-1867-4e32-8763-5ccb3a5f8fb6/AzureFridayDockerVisualStudio.mp3" expression="full" duration="821" fileSize="13142040" type="audio/mp3" medium="audio"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/8fb6/f9e566a3-1867-4e32-8763-5ccb3a5f8fb6/AzureFridayDockerVisualStudio.mp4" expression="full" duration="821" fileSize="22013715" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/8fb6/f9e566a3-1867-4e32-8763-5ccb3a5f8fb6/AzureFridayDockerVisualStudio.webm" expression="full" duration="821" fileSize="54847550" type="video/webm" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/8fb6/f9e566a3-1867-4e32-8763-5ccb3a5f8fb6/AzureFridayDockerVisualStudio_high.mp4" expression="full" duration="821" fileSize="101756940" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/8fb6/f9e566a3-1867-4e32-8763-5ccb3a5f8fb6/AzureFridayDockerVisualStudio_mid.mp4" expression="full" duration="821" fileSize="64290004" type="video/mp4" medium="video"></media:content>
+      </media:group>      
+      <enclosure url="http://video.ch9.ms/ch9/8fb6/f9e566a3-1867-4e32-8763-5ccb3a5f8fb6/AzureFridayDockerVisualStudio_high.mp4" length="101756940" type="video/mp4"></enclosure>
+      <dc:creator>Scott Hanselman, Ahmet Alp Balkan</dc:creator>
+      <itunes:author>Scott Hanselman, Ahmet Alp Balkan</itunes:author>
+      <slash:comments>0</slash:comments>
+      <wfw:commentRss>https://channel9.msdn.com/Shows/Azure-Friday/The-Docker-Visual-Studio-Extension-with-Ahmet-Alp-Balkan/RSS</wfw:commentRss>
+      <category>Azure</category>
+    </item>
+  <item>
+      <title>Docker 101 with Ahmet Alp Balkan</title>
+      <description><![CDATA[<p>Scott talks to&nbsp;Ahmet Alp Balkan about Docker and gets the full 101 on what Docker is, and why we should care. What problem does Docker solve and how can we use Docker in&nbsp;the Microsoft Azure Cloud?</p> <img src="http://m.webtrends.com/dcs1wotjh10000w0irc493s0e_6x1g/njs.gif?dcssip=channel9.msdn.com&dcsuri=https://channel9.msdn.com/Shows/Azure-Friday/feed/mp4high&WT.dl=0&WT.entryid=Entry:RSSView:257d02e4b2b64e4fbd0ba4b3011f5f09">]]></description>
+      <comments>https://channel9.msdn.com/Shows/Azure-Friday/Docker-101-with-Ahmet-Alp-Balkan</comments>
+      <itunes:summary>Scott talks to Ahmet Alp Balkan about Docker and gets the full 101 on what Docker is, and why we should care. What problem does Docker solve and how can we use Docker in the Microsoft Azure Cloud? </itunes:summary>
+      <itunes:duration>941</itunes:duration>
+      <link>https://channel9.msdn.com/Shows/Azure-Friday/Docker-101-with-Ahmet-Alp-Balkan</link>
+      <pubDate>Thu, 11 Jun 2015 23:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://channel9.msdn.com/Shows/Azure-Friday/Docker-101-with-Ahmet-Alp-Balkan</guid>
+      <media:thumbnail url="http://video.ch9.ms/ch9/d34b/2f276830-11fe-4da9-9969-c83e5df5d34b/AzureFridayDocker101_100.jpg" height="56" width="100"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/d34b/2f276830-11fe-4da9-9969-c83e5df5d34b/AzureFridayDocker101_220.jpg" height="123" width="220"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/d34b/2f276830-11fe-4da9-9969-c83e5df5d34b/AzureFridayDocker101_512.jpg" height="288" width="512"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/d34b/2f276830-11fe-4da9-9969-c83e5df5d34b/AzureFridayDocker101_960.jpg" height="540" width="960"></media:thumbnail>
+      <media:group>
+        <media:content url="http://video.ch9.ms/ch9/d34b/2f276830-11fe-4da9-9969-c83e5df5d34b/AzureFridayDocker101.mp3" expression="full" duration="941" fileSize="15057917" type="audio/mp3" medium="audio"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/d34b/2f276830-11fe-4da9-9969-c83e5df5d34b/AzureFridayDocker101.mp4" expression="full" duration="941" fileSize="24645526" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/d34b/2f276830-11fe-4da9-9969-c83e5df5d34b/AzureFridayDocker101.webm" expression="full" duration="941" fileSize="66715741" type="video/webm" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/d34b/2f276830-11fe-4da9-9969-c83e5df5d34b/AzureFridayDocker101_high.mp4" expression="full" duration="941" fileSize="166764624" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/d34b/2f276830-11fe-4da9-9969-c83e5df5d34b/AzureFridayDocker101_mid.mp4" expression="full" duration="941" fileSize="94386049" type="video/mp4" medium="video"></media:content>
+      </media:group>      
+      <enclosure url="http://video.ch9.ms/ch9/d34b/2f276830-11fe-4da9-9969-c83e5df5d34b/AzureFridayDocker101_high.mp4" length="166764624" type="video/mp4"></enclosure>
+      <dc:creator>Scott Hanselman, Ahmet Alp Balkan</dc:creator>
+      <itunes:author>Scott Hanselman, Ahmet Alp Balkan</itunes:author>
+      <slash:comments>5</slash:comments>
+      <wfw:commentRss>https://channel9.msdn.com/Shows/Azure-Friday/Docker-101-with-Ahmet-Alp-Balkan/RSS</wfw:commentRss>
+      <category>Azure</category>
+    </item>
+  <item>
+      <title>What&#39;s new in Azure Resource Manager Compute Templates</title>
+      <description><![CDATA[<p>Scott&nbsp;talks to&nbsp;Mahesh Thiagarajan&nbsp;about the new Azure JSON-based APIs for Azure that&nbsp;now include Compute, Network, and&nbsp;Storage. Orchestrating large system deployments is&nbsp;easier and more declarative than ever.</p> <img src="http://m.webtrends.com/dcs1wotjh10000w0irc493s0e_6x1g/njs.gif?dcssip=channel9.msdn.com&dcsuri=https://channel9.msdn.com/Shows/Azure-Friday/feed/mp4high&WT.dl=0&WT.entryid=Entry:RSSView:53bd0b1ce96b4d708d02a4ac016bef00">]]></description>
+      <comments>https://channel9.msdn.com/Shows/Azure-Friday/Whats-new-in-Azure-Resource-Manager-Compute-Templates</comments>
+      <itunes:summary>Scott talks to Mahesh Thiagarajan about the new Azure JSON-based APIs for Azure that now include Compute, Network, and Storage. Orchestrating large system deployments is easier and more declarative than ever. </itunes:summary>
+      <itunes:duration>675</itunes:duration>
+      <link>https://channel9.msdn.com/Shows/Azure-Friday/Whats-new-in-Azure-Resource-Manager-Compute-Templates</link>
+      <pubDate>Thu, 04 Jun 2015 23:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://channel9.msdn.com/Shows/Azure-Friday/Whats-new-in-Azure-Resource-Manager-Compute-Templates</guid>
+      <media:thumbnail url="http://video.ch9.ms/ch9/8530/11fbe3bc-c928-4cf8-8843-e77c49328530/WhatsNewinComputeTemplateswithThiagarajan_100.jpg" height="56" width="100"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/8530/11fbe3bc-c928-4cf8-8843-e77c49328530/WhatsNewinComputeTemplateswithThiagarajan_220.jpg" height="123" width="220"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/8530/11fbe3bc-c928-4cf8-8843-e77c49328530/WhatsNewinComputeTemplateswithThiagarajan_512.jpg" height="288" width="512"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/8530/11fbe3bc-c928-4cf8-8843-e77c49328530/WhatsNewinComputeTemplateswithThiagarajan_960.jpg" height="540" width="960"></media:thumbnail>
+      <media:group>
+        <media:content url="http://video.ch9.ms/ch9/8530/11fbe3bc-c928-4cf8-8843-e77c49328530/WhatsNewinComputeTemplateswithThiagarajan.mp3" expression="full" duration="675" fileSize="10812082" type="audio/mp3" medium="audio"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/8530/11fbe3bc-c928-4cf8-8843-e77c49328530/WhatsNewinComputeTemplateswithThiagarajan.mp4" expression="full" duration="675" fileSize="20086789" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/8530/11fbe3bc-c928-4cf8-8843-e77c49328530/WhatsNewinComputeTemplateswithThiagarajan.webm" expression="full" duration="675" fileSize="56034461" type="video/webm" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/8530/11fbe3bc-c928-4cf8-8843-e77c49328530/WhatsNewinComputeTemplateswithThiagarajan_high.mp4" expression="full" duration="675" fileSize="141051655" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/8530/11fbe3bc-c928-4cf8-8843-e77c49328530/WhatsNewinComputeTemplateswithThiagarajan_mid.mp4" expression="full" duration="675" fileSize="80681637" type="video/mp4" medium="video"></media:content>
+      </media:group>      
+      <enclosure url="http://video.ch9.ms/ch9/8530/11fbe3bc-c928-4cf8-8843-e77c49328530/WhatsNewinComputeTemplateswithThiagarajan_high.mp4" length="141051655" type="video/mp4"></enclosure>
+      <dc:creator>Scott Hanselman</dc:creator>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <slash:comments>0</slash:comments>
+      <wfw:commentRss>https://channel9.msdn.com/Shows/Azure-Friday/Whats-new-in-Azure-Resource-Manager-Compute-Templates/RSS</wfw:commentRss>
+    </item>
+  <item>
+      <title>What&#39;s new in Azure Resource Manager - June 2015</title>
+      <description><![CDATA[<p>Scott&nbsp;talks to&nbsp;Mahesh Thiagarajan about some of the new innovations&nbsp;just released in Azure&nbsp;Resource&nbsp;Manager. Thousands of&nbsp;VMs can be created and spun up in parallel, network adapters are first class&nbsp;citizens, and much more!</p> <img src="http://m.webtrends.com/dcs1wotjh10000w0irc493s0e_6x1g/njs.gif?dcssip=channel9.msdn.com&dcsuri=https://channel9.msdn.com/Shows/Azure-Friday/feed/mp4high&WT.dl=0&WT.entryid=Entry:RSSView:4ebe20e142ec407e97d4a4ac0169279b">]]></description>
+      <comments>https://channel9.msdn.com/Shows/Azure-Friday/Whats-new-in-Azure-Resource-Manager-June-2015</comments>
+      <itunes:summary>Scott talks to Mahesh Thiagarajan about some of the new innovations just released in Azure Resource Manager. Thousands of VMs can be created and spun up in parallel, network adapters are first class citizens, and much more! </itunes:summary>
+      <itunes:duration>702</itunes:duration>
+      <link>https://channel9.msdn.com/Shows/Azure-Friday/Whats-new-in-Azure-Resource-Manager-June-2015</link>
+      <pubDate>Thu, 04 Jun 2015 23:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://channel9.msdn.com/Shows/Azure-Friday/Whats-new-in-Azure-Resource-Manager-June-2015</guid>
+      <media:thumbnail url="http://video.ch9.ms/ch9/f55e/3ebdf488-2f44-41da-a52d-e23111acf55e/WhatsNewinAzureResourceManagerwithThiagarajan_100.jpg" height="56" width="100"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/f55e/3ebdf488-2f44-41da-a52d-e23111acf55e/WhatsNewinAzureResourceManagerwithThiagarajan_220.jpg" height="123" width="220"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/f55e/3ebdf488-2f44-41da-a52d-e23111acf55e/WhatsNewinAzureResourceManagerwithThiagarajan_512.jpg" height="288" width="512"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/f55e/3ebdf488-2f44-41da-a52d-e23111acf55e/WhatsNewinAzureResourceManagerwithThiagarajan_960.jpg" height="540" width="960"></media:thumbnail>
+      <media:group>
+        <media:content url="http://video.ch9.ms/ch9/f55e/3ebdf488-2f44-41da-a52d-e23111acf55e/WhatsNewinAzureResourceManagerwithThiagarajan.mp3" expression="full" duration="702" fileSize="11237804" type="audio/mp3" medium="audio"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/f55e/3ebdf488-2f44-41da-a52d-e23111acf55e/WhatsNewinAzureResourceManagerwithThiagarajan.mp4" expression="full" duration="702" fileSize="21536524" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/f55e/3ebdf488-2f44-41da-a52d-e23111acf55e/WhatsNewinAzureResourceManagerwithThiagarajan.webm" expression="full" duration="702" fileSize="62420743" type="video/webm" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/f55e/3ebdf488-2f44-41da-a52d-e23111acf55e/WhatsNewinAzureResourceManagerwithThiagarajan_high.mp4" expression="full" duration="702" fileSize="148253659" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/f55e/3ebdf488-2f44-41da-a52d-e23111acf55e/WhatsNewinAzureResourceManagerwithThiagarajan_mid.mp4" expression="full" duration="702" fileSize="85723707" type="video/mp4" medium="video"></media:content>
+      </media:group>      
+      <enclosure url="http://video.ch9.ms/ch9/f55e/3ebdf488-2f44-41da-a52d-e23111acf55e/WhatsNewinAzureResourceManagerwithThiagarajan_high.mp4" length="148253659" type="video/mp4"></enclosure>
+      <dc:creator>Scott Hanselman</dc:creator>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <slash:comments>1</slash:comments>
+      <wfw:commentRss>https://channel9.msdn.com/Shows/Azure-Friday/Whats-new-in-Azure-Resource-Manager-June-2015/RSS</wfw:commentRss>
+      <category>Azure</category>
+    </item>
+  <item>
+      <title>Azure PowerShell 101 - Managing Azure Storage from the Command-Line</title>
+      <description><![CDATA[<p>In this next part, we build on what we learned in Azure PowerShell 101 and now create a more sophisticated script to manage Azure Storage from the command line.&nbsp;</p> <img src="http://m.webtrends.com/dcs1wotjh10000w0irc493s0e_6x1g/njs.gif?dcssip=channel9.msdn.com&dcsuri=https://channel9.msdn.com/Shows/Azure-Friday/feed/mp4high&WT.dl=0&WT.entryid=Entry:RSSView:b11a9c6af7be46d6b43ea47201641da8">]]></description>
+      <comments>https://channel9.msdn.com/Shows/Azure-Friday/Azure-PowerShell-101-Managing-Azure-Storage-from-the-Command-Line</comments>
+      <itunes:summary>In this next part, we build on what we learned in Azure PowerShell 101 and now create a more sophisticated script to manage Azure Storage from the command line.  </itunes:summary>
+      <itunes:duration>779</itunes:duration>
+      <link>https://channel9.msdn.com/Shows/Azure-Friday/Azure-PowerShell-101-Managing-Azure-Storage-from-the-Command-Line</link>
+      <pubDate>Thu, 28 May 2015 23:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://channel9.msdn.com/Shows/Azure-Friday/Azure-PowerShell-101-Managing-Azure-Storage-from-the-Command-Line</guid>
+      <media:thumbnail url="http://video.ch9.ms/ch9/95f2/b5fb0053-bf7d-4665-8ee0-ca154c1995f2/AzurePowerShell102_100.jpg" height="56" width="100"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/95f2/b5fb0053-bf7d-4665-8ee0-ca154c1995f2/AzurePowerShell102_220.jpg" height="123" width="220"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/95f2/b5fb0053-bf7d-4665-8ee0-ca154c1995f2/AzurePowerShell102_512.jpg" height="288" width="512"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/95f2/b5fb0053-bf7d-4665-8ee0-ca154c1995f2/AzurePowerShell102_960.jpg" height="540" width="960"></media:thumbnail>
+      <media:group>
+        <media:content url="http://video.ch9.ms/ch9/95f2/b5fb0053-bf7d-4665-8ee0-ca154c1995f2/AzurePowerShell102.mp3" expression="full" duration="779" fileSize="12469578" type="audio/mp3" medium="audio"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/95f2/b5fb0053-bf7d-4665-8ee0-ca154c1995f2/AzurePowerShell102.mp4" expression="full" duration="779" fileSize="19440046" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/95f2/b5fb0053-bf7d-4665-8ee0-ca154c1995f2/AzurePowerShell102.webm" expression="full" duration="779" fileSize="54212990" type="video/webm" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/95f2/b5fb0053-bf7d-4665-8ee0-ca154c1995f2/AzurePowerShell102_high.mp4" expression="full" duration="779" fileSize="91904753" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/95f2/b5fb0053-bf7d-4665-8ee0-ca154c1995f2/AzurePowerShell102_mid.mp4" expression="full" duration="779" fileSize="59460675" type="video/mp4" medium="video"></media:content>
+      </media:group>      
+      <enclosure url="http://video.ch9.ms/ch9/95f2/b5fb0053-bf7d-4665-8ee0-ca154c1995f2/AzurePowerShell102_high.mp4" length="91904753" type="video/mp4"></enclosure>
+      <dc:creator>Scott Hanselman</dc:creator>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <slash:comments>0</slash:comments>
+      <wfw:commentRss>https://channel9.msdn.com/Shows/Azure-Friday/Azure-PowerShell-101-Managing-Azure-Storage-from-the-Command-Line/RSS</wfw:commentRss>
+      <category>Azure</category>
+      <category>PowerShell</category>
+    </item>
+  <item>
+      <title>Azure PowerShell 101 - Managing Virtual Machines with Guang Yang</title>
+      <description><![CDATA[<p>Scott continues his&nbsp;PowerShell series with Guang Yang. In this episode we learn how to create and manage Azure Virtual Machines&nbsp;entirely from the&nbsp;command line!</p> <img src="http://m.webtrends.com/dcs1wotjh10000w0irc493s0e_6x1g/njs.gif?dcssip=channel9.msdn.com&dcsuri=https://channel9.msdn.com/Shows/Azure-Friday/feed/mp4high&WT.dl=0&WT.entryid=Entry:RSSView:4169b7dd13824a66bc7ba472016ccf67">]]></description>
+      <comments>https://channel9.msdn.com/Shows/Azure-Friday/Azure-PowerShell-101-Managing-Virtual-Machines-with-Guang-Yang</comments>
+      <itunes:summary>Scott continues his PowerShell series with Guang Yang. In this episode we learn how to create and manage Azure Virtual Machines entirely from the command line! </itunes:summary>
+      <itunes:duration>625</itunes:duration>
+      <link>https://channel9.msdn.com/Shows/Azure-Friday/Azure-PowerShell-101-Managing-Virtual-Machines-with-Guang-Yang</link>
+      <pubDate>Thu, 21 May 2015 23:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://channel9.msdn.com/Shows/Azure-Friday/Azure-PowerShell-101-Managing-Virtual-Machines-with-Guang-Yang</guid>
+      <media:thumbnail url="http://video.ch9.ms/ch9/dfee/44aa9dec-c2a6-4221-a488-fd44fb08dfee/AzurePowerShell101VMs_100.jpg" height="56" width="100"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/dfee/44aa9dec-c2a6-4221-a488-fd44fb08dfee/AzurePowerShell101VMs_220.jpg" height="123" width="220"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/dfee/44aa9dec-c2a6-4221-a488-fd44fb08dfee/AzurePowerShell101VMs_512.jpg" height="288" width="512"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/dfee/44aa9dec-c2a6-4221-a488-fd44fb08dfee/AzurePowerShell101VMs_960.jpg" height="540" width="960"></media:thumbnail>
+      <media:group>
+        <media:content url="http://video.ch9.ms/ch9/dfee/44aa9dec-c2a6-4221-a488-fd44fb08dfee/AzurePowerShell101VMs.mp3" expression="full" duration="625" fileSize="10008616" type="audio/mp3" medium="audio"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/dfee/44aa9dec-c2a6-4221-a488-fd44fb08dfee/AzurePowerShell101VMs.mp4" expression="full" duration="625" fileSize="16587483" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/dfee/44aa9dec-c2a6-4221-a488-fd44fb08dfee/AzurePowerShell101VMs.webm" expression="full" duration="625" fileSize="46367013" type="video/webm" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/dfee/44aa9dec-c2a6-4221-a488-fd44fb08dfee/AzurePowerShell101VMs_high.mp4" expression="full" duration="625" fileSize="78119405" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/dfee/44aa9dec-c2a6-4221-a488-fd44fb08dfee/AzurePowerShell101VMs_mid.mp4" expression="full" duration="625" fileSize="50388922" type="video/mp4" medium="video"></media:content>
+      </media:group>      
+      <enclosure url="http://video.ch9.ms/ch9/dfee/44aa9dec-c2a6-4221-a488-fd44fb08dfee/AzurePowerShell101VMs_high.mp4" length="78119405" type="video/mp4"></enclosure>
+      <dc:creator>Scott Hanselman</dc:creator>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <slash:comments>1</slash:comments>
+      <wfw:commentRss>https://channel9.msdn.com/Shows/Azure-Friday/Azure-PowerShell-101-Managing-Virtual-Machines-with-Guang-Yang/RSS</wfw:commentRss>
+      <category>Azure</category>
+    </item>
+  <item>
+      <title>Azure Table Storage 101 with Jai Haridas</title>
+      <description><![CDATA[<p>Scott talks to&nbsp;Jai Haridas about&nbsp;Azure Table Storage. This&nbsp;incredibly fast no-sql store is perfect for large scale Key/Value lookups. We'll create a&nbsp;sample application and&nbsp;explore the underlying HTTP REST calls to the&nbsp;backend Azure Storage API.</p> <img src="http://m.webtrends.com/dcs1wotjh10000w0irc493s0e_6x1g/njs.gif?dcssip=channel9.msdn.com&dcsuri=https://channel9.msdn.com/Shows/Azure-Friday/feed/mp4high&WT.dl=0&WT.entryid=Entry:RSSView:52ad375f84eb499da287a472015d6c7f">]]></description>
+      <comments>https://channel9.msdn.com/Shows/Azure-Friday/Azure-Table-Storage-101-with-Jai-Haridas</comments>
+      <itunes:summary>Scott talks to Jai Haridas about Azure Table Storage. This incredibly fast no-sql store is perfect for large scale Key/Value lookups. We&#39;ll create a sample application and explore the underlying HTTP REST calls to the backend Azure Storage API. </itunes:summary>
+      <itunes:duration>881</itunes:duration>
+      <link>https://channel9.msdn.com/Shows/Azure-Friday/Azure-Table-Storage-101-with-Jai-Haridas</link>
+      <pubDate>Thu, 14 May 2015 23:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://channel9.msdn.com/Shows/Azure-Friday/Azure-Table-Storage-101-with-Jai-Haridas</guid>
+      <media:thumbnail url="http://video.ch9.ms/ch9/83bc/ad45cefd-5e97-4f88-a4d5-c3251a3583bc/AzureTableStorage101_100.jpg" height="56" width="100"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/83bc/ad45cefd-5e97-4f88-a4d5-c3251a3583bc/AzureTableStorage101_220.jpg" height="123" width="220"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/83bc/ad45cefd-5e97-4f88-a4d5-c3251a3583bc/AzureTableStorage101_512.jpg" height="288" width="512"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/83bc/ad45cefd-5e97-4f88-a4d5-c3251a3583bc/AzureTableStorage101_960.jpg" height="540" width="960"></media:thumbnail>
+      <media:group>
+        <media:content url="http://video.ch9.ms/ch9/83bc/ad45cefd-5e97-4f88-a4d5-c3251a3583bc/AzureTableStorage101.mp3" expression="full" duration="881" fileSize="14107494" type="audio/mp3" medium="audio"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/83bc/ad45cefd-5e97-4f88-a4d5-c3251a3583bc/AzureTableStorage101.mp4" expression="full" duration="881" fileSize="25238422" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/83bc/ad45cefd-5e97-4f88-a4d5-c3251a3583bc/AzureTableStorage101.webm" expression="full" duration="881" fileSize="78090671" type="video/webm" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/83bc/ad45cefd-5e97-4f88-a4d5-c3251a3583bc/AzureTableStorage101_high.mp4" expression="full" duration="881" fileSize="168629642" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/83bc/ad45cefd-5e97-4f88-a4d5-c3251a3583bc/AzureTableStorage101_mid.mp4" expression="full" duration="881" fileSize="104502481" type="video/mp4" medium="video"></media:content>
+      </media:group>      
+      <enclosure url="http://video.ch9.ms/ch9/83bc/ad45cefd-5e97-4f88-a4d5-c3251a3583bc/AzureTableStorage101_high.mp4" length="168629642" type="video/mp4"></enclosure>
+      <dc:creator>Scott Hanselman</dc:creator>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <slash:comments>1</slash:comments>
+      <wfw:commentRss>https://channel9.msdn.com/Shows/Azure-Friday/Azure-Table-Storage-101-with-Jai-Haridas/RSS</wfw:commentRss>
+      <category>Azure</category>
+    </item>
+  <item>
+      <title>Azure Search 104 - Multilingual Azure Search with Liam Cavanagh</title>
+      <description><![CDATA[<p>Scott talks to Azure Search Program Manager&nbsp;Liam Cavanagh about how&nbsp;Azure Search can search&nbsp;intelligently in multiple languages! You can use Microsoft's&nbsp;language analyzer&nbsp;as well as Lucene's!</p> <img src="http://m.webtrends.com/dcs1wotjh10000w0irc493s0e_6x1g/njs.gif?dcssip=channel9.msdn.com&dcsuri=https://channel9.msdn.com/Shows/Azure-Friday/feed/mp4high&WT.dl=0&WT.entryid=Entry:RSSView:231f7cc5ed974f008669a47201447037">]]></description>
+      <comments>https://channel9.msdn.com/Shows/Azure-Friday/Azure-Search-104-Multilingual-Azure-Search-with-Liam-Cavanagh</comments>
+      <itunes:summary>Scott talks to Azure Search Program Manager Liam Cavanagh about how Azure Search can search intelligently in multiple languages! You can use Microsoft&#39;s language analyzer as well as Lucene&#39;s! </itunes:summary>
+      <itunes:duration>517</itunes:duration>
+      <link>https://channel9.msdn.com/Shows/Azure-Friday/Azure-Search-104-Multilingual-Azure-Search-with-Liam-Cavanagh</link>
+      <pubDate>Thu, 07 May 2015 23:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://channel9.msdn.com/Shows/Azure-Friday/Azure-Search-104-Multilingual-Azure-Search-with-Liam-Cavanagh</guid>
+      <media:thumbnail url="http://video.ch9.ms/ch9/2f80/67743815-06d9-4300-9d6a-3094927d2f80/AzureSearch104Multilingual_100.jpg" height="56" width="100"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/2f80/67743815-06d9-4300-9d6a-3094927d2f80/AzureSearch104Multilingual_220.jpg" height="123" width="220"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/2f80/67743815-06d9-4300-9d6a-3094927d2f80/AzureSearch104Multilingual_512.jpg" height="288" width="512"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/2f80/67743815-06d9-4300-9d6a-3094927d2f80/AzureSearch104Multilingual_960.jpg" height="540" width="960"></media:thumbnail>
+      <media:group>
+        <media:content url="http://video.ch9.ms/ch9/2f80/67743815-06d9-4300-9d6a-3094927d2f80/AzureSearch104Multilingual.mp3" expression="full" duration="517" fileSize="8279935" type="audio/mp3" medium="audio"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/2f80/67743815-06d9-4300-9d6a-3094927d2f80/AzureSearch104Multilingual.mp4" expression="full" duration="517" fileSize="17004099" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/2f80/67743815-06d9-4300-9d6a-3094927d2f80/AzureSearch104Multilingual.webm" expression="full" duration="517" fileSize="48630548" type="video/webm" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/2f80/67743815-06d9-4300-9d6a-3094927d2f80/AzureSearch104Multilingual_high.mp4" expression="full" duration="517" fileSize="114496503" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/2f80/67743815-06d9-4300-9d6a-3094927d2f80/AzureSearch104Multilingual_mid.mp4" expression="full" duration="517" fileSize="70249715" type="video/mp4" medium="video"></media:content>
+      </media:group>      
+      <enclosure url="http://video.ch9.ms/ch9/2f80/67743815-06d9-4300-9d6a-3094927d2f80/AzureSearch104Multilingual_high.mp4" length="114496503" type="video/mp4"></enclosure>
+      <dc:creator>Scott Hanselman</dc:creator>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <slash:comments>0</slash:comments>
+      <wfw:commentRss>https://channel9.msdn.com/Shows/Azure-Friday/Azure-Search-104-Multilingual-Azure-Search-with-Liam-Cavanagh/RSS</wfw:commentRss>
+      <category>Azure</category>
+    </item>
+  <item>
+      <title>Azure Search 103 - Azure Search Suggestions with Liam Cavanagh</title>
+      <description><![CDATA[<p>&nbsp;Liam Cavanagh explains how the to use&nbsp;Azure Search in your application to give &quot;suggestions&quot; as you type! You can&nbsp;get suggestions almost&nbsp;instantly, choose how your want your input&nbsp;tokenized, and&nbsp;whether Azure Search to&nbsp;give results even if your input is misspelled&nbsp;and apply &quot;fuzzy&quot;&nbsp;logic.</p> <img src="http://m.webtrends.com/dcs1wotjh10000w0irc493s0e_6x1g/njs.gif?dcssip=channel9.msdn.com&dcsuri=https://channel9.msdn.com/Shows/Azure-Friday/feed/mp4high&WT.dl=0&WT.entryid=Entry:RSSView:b3a9ec71b81f4335af68a4720143b5f3">]]></description>
+      <comments>https://channel9.msdn.com/Shows/Azure-Friday/Azure-Search-103-Azure-Search-Suggestions-with-Liam-Cavanagh</comments>
+      <itunes:summary> Liam Cavanagh explains how the to use Azure Search in your application to give &amp;quot;suggestions&amp;quot; as you type! You can get suggestions almost instantly, choose how your want your input tokenized, and whether Azure Search to give results even if your input is misspelled and apply &amp;quot;fuzzy&amp;quot; logic. </itunes:summary>
+      <itunes:duration>597</itunes:duration>
+      <link>https://channel9.msdn.com/Shows/Azure-Friday/Azure-Search-103-Azure-Search-Suggestions-with-Liam-Cavanagh</link>
+      <pubDate>Thu, 07 May 2015 23:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://channel9.msdn.com/Shows/Azure-Friday/Azure-Search-103-Azure-Search-Suggestions-with-Liam-Cavanagh</guid>
+      <media:thumbnail url="http://video.ch9.ms/ch9/3810/3a91c006-2f1d-4a2b-8764-bc87c0a33810/AzureSearch103Suggestions_100.jpg" height="56" width="100"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/3810/3a91c006-2f1d-4a2b-8764-bc87c0a33810/AzureSearch103Suggestions_220.jpg" height="123" width="220"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/3810/3a91c006-2f1d-4a2b-8764-bc87c0a33810/AzureSearch103Suggestions_512.jpg" height="288" width="512"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/3810/3a91c006-2f1d-4a2b-8764-bc87c0a33810/AzureSearch103Suggestions_960.jpg" height="540" width="960"></media:thumbnail>
+      <media:group>
+        <media:content url="http://video.ch9.ms/ch9/3810/3a91c006-2f1d-4a2b-8764-bc87c0a33810/AzureSearch103Suggestions.mp3" expression="full" duration="597" fileSize="9557216" type="audio/mp3" medium="audio"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/3810/3a91c006-2f1d-4a2b-8764-bc87c0a33810/AzureSearch103Suggestions.mp4" expression="full" duration="597" fileSize="16563879" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/3810/3a91c006-2f1d-4a2b-8764-bc87c0a33810/AzureSearch103Suggestions.webm" expression="full" duration="597" fileSize="48706844" type="video/webm" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/3810/3a91c006-2f1d-4a2b-8764-bc87c0a33810/AzureSearch103Suggestions_high.mp4" expression="full" duration="597" fileSize="99874452" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/3810/3a91c006-2f1d-4a2b-8764-bc87c0a33810/AzureSearch103Suggestions_mid.mp4" expression="full" duration="597" fileSize="62169322" type="video/mp4" medium="video"></media:content>
+      </media:group>      
+      <enclosure url="http://video.ch9.ms/ch9/3810/3a91c006-2f1d-4a2b-8764-bc87c0a33810/AzureSearch103Suggestions_high.mp4" length="99874452" type="video/mp4"></enclosure>
+      <dc:creator>Scott Hanselman</dc:creator>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <slash:comments>0</slash:comments>
+      <wfw:commentRss>https://channel9.msdn.com/Shows/Azure-Friday/Azure-Search-103-Azure-Search-Suggestions-with-Liam-Cavanagh/RSS</wfw:commentRss>
+      <category>Azure</category>
+    </item>
+  <item>
+      <title>Azure Blob Storage 101 with Jai Haridas</title>
+      <description><![CDATA[<p>Scott talks to Program Manager&nbsp;Jai Haridas who school us all on Azure Blob Storage 101. We'll&nbsp;create a simple application that accesses Blog Storage and we'll even use Fiddler talk watch the actual HTTP REST calls to the Azure backend!&nbsp;</p> <img src="http://m.webtrends.com/dcs1wotjh10000w0irc493s0e_6x1g/njs.gif?dcssip=channel9.msdn.com&dcsuri=https://channel9.msdn.com/Shows/Azure-Friday/feed/mp4high&WT.dl=0&WT.entryid=Entry:RSSView:c273ce7112504559951da472015cd89f">]]></description>
+      <comments>https://channel9.msdn.com/Shows/Azure-Friday/Azure-Blob-Storage-101-with-Jai-Haridas</comments>
+      <itunes:summary>Scott talks to Program Manager Jai Haridas who school us all on Azure Blob Storage 101. We&#39;ll create a simple application that accesses Blog Storage and we&#39;ll even use Fiddler talk watch the actual HTTP REST calls to the Azure backend!  </itunes:summary>
+      <itunes:duration>971</itunes:duration>
+      <link>https://channel9.msdn.com/Shows/Azure-Friday/Azure-Blob-Storage-101-with-Jai-Haridas</link>
+      <pubDate>Thu, 30 Apr 2015 23:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://channel9.msdn.com/Shows/Azure-Friday/Azure-Blob-Storage-101-with-Jai-Haridas</guid>
+      <media:thumbnail url="http://video.ch9.ms/ch9/4e96/71b26e94-b8d1-4eab-b989-2802fe1d4e96/AzureBlobStorage101_100.jpg" height="56" width="100"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/4e96/71b26e94-b8d1-4eab-b989-2802fe1d4e96/AzureBlobStorage101_220.jpg" height="123" width="220"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/4e96/71b26e94-b8d1-4eab-b989-2802fe1d4e96/AzureBlobStorage101_512.jpg" height="288" width="512"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/4e96/71b26e94-b8d1-4eab-b989-2802fe1d4e96/AzureBlobStorage101_960.jpg" height="540" width="960"></media:thumbnail>
+      <media:group>
+        <media:content url="http://video.ch9.ms/ch9/4e96/71b26e94-b8d1-4eab-b989-2802fe1d4e96/AzureBlobStorage101.mp3" expression="full" duration="971" fileSize="15539618" type="audio/mp3" medium="audio"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/4e96/71b26e94-b8d1-4eab-b989-2802fe1d4e96/AzureBlobStorage101.mp4" expression="full" duration="971" fileSize="28289156" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/4e96/71b26e94-b8d1-4eab-b989-2802fe1d4e96/AzureBlobStorage101.webm" expression="full" duration="971" fileSize="82243065" type="video/webm" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/4e96/71b26e94-b8d1-4eab-b989-2802fe1d4e96/AzureBlobStorage101_high.mp4" expression="full" duration="971" fileSize="178620539" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/4e96/71b26e94-b8d1-4eab-b989-2802fe1d4e96/AzureBlobStorage101_mid.mp4" expression="full" duration="971" fileSize="111503501" type="video/mp4" medium="video"></media:content>
+      </media:group>      
+      <enclosure url="http://video.ch9.ms/ch9/4e96/71b26e94-b8d1-4eab-b989-2802fe1d4e96/AzureBlobStorage101_high.mp4" length="178620539" type="video/mp4"></enclosure>
+      <dc:creator>Scott Hanselman</dc:creator>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <slash:comments>3</slash:comments>
+      <wfw:commentRss>https://channel9.msdn.com/Shows/Azure-Friday/Azure-Blob-Storage-101-with-Jai-Haridas/RSS</wfw:commentRss>
+    </item>
+  <item>
+      <title>Azure Resource Manager 101 using PowerShell with Guang Yang</title>
+      <description><![CDATA[<p>Guang joins Scott to&nbsp;demystify the&nbsp;concepts behind Azure Resource&nbsp;Manager. We&nbsp;talk about how Resource Manager&nbsp;and the Gallery fit into the Azure ecosystem. We'll automate the creation of our new resources from&nbsp;the command line with&nbsp;PowerShell.</p> <img src="http://m.webtrends.com/dcs1wotjh10000w0irc493s0e_6x1g/njs.gif?dcssip=channel9.msdn.com&dcsuri=https://channel9.msdn.com/Shows/Azure-Friday/feed/mp4high&WT.dl=0&WT.entryid=Entry:RSSView:348236b8503e464f888ca472016bfed8">]]></description>
+      <comments>https://channel9.msdn.com/Shows/Azure-Friday/Azure-Resource-Manager-101-using-PowerShell-with-Guang-Yang</comments>
+      <itunes:summary>Guang joins Scott to demystify the concepts behind Azure Resource Manager. We talk about how Resource Manager and the Gallery fit into the Azure ecosystem. We&#39;ll automate the creation of our new resources from the command line with PowerShell. </itunes:summary>
+      <itunes:duration>646</itunes:duration>
+      <link>https://channel9.msdn.com/Shows/Azure-Friday/Azure-Resource-Manager-101-using-PowerShell-with-Guang-Yang</link>
+      <pubDate>Thu, 23 Apr 2015 23:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://channel9.msdn.com/Shows/Azure-Friday/Azure-Resource-Manager-101-using-PowerShell-with-Guang-Yang</guid>
+      <media:thumbnail url="http://video.ch9.ms/ch9/d560/863f0653-4389-4eef-9410-f415cf65d560/AzureRM101PowerShell_100.jpg" height="56" width="100"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/d560/863f0653-4389-4eef-9410-f415cf65d560/AzureRM101PowerShell_220.jpg" height="123" width="220"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/d560/863f0653-4389-4eef-9410-f415cf65d560/AzureRM101PowerShell_512.jpg" height="288" width="512"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/d560/863f0653-4389-4eef-9410-f415cf65d560/AzureRM101PowerShell_960.jpg" height="540" width="960"></media:thumbnail>
+      <media:group>
+        <media:content url="http://video.ch9.ms/ch9/d560/863f0653-4389-4eef-9410-f415cf65d560/AzureRM101PowerShell.mp3" expression="full" duration="646" fileSize="10348407" type="audio/mp3" medium="audio"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/d560/863f0653-4389-4eef-9410-f415cf65d560/AzureRM101PowerShell.mp4" expression="full" duration="646" fileSize="17439894" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/d560/863f0653-4389-4eef-9410-f415cf65d560/AzureRM101PowerShell.webm" expression="full" duration="646" fileSize="49020879" type="video/webm" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/d560/863f0653-4389-4eef-9410-f415cf65d560/AzureRM101PowerShell_high.mp4" expression="full" duration="646" fileSize="93093131" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/d560/863f0653-4389-4eef-9410-f415cf65d560/AzureRM101PowerShell_mid.mp4" expression="full" duration="646" fileSize="58147224" type="video/mp4" medium="video"></media:content>
+      </media:group>      
+      <enclosure url="http://video.ch9.ms/ch9/d560/863f0653-4389-4eef-9410-f415cf65d560/AzureRM101PowerShell_high.mp4" length="93093131" type="video/mp4"></enclosure>
+      <dc:creator>Scott Hanselman</dc:creator>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <slash:comments>0</slash:comments>
+      <wfw:commentRss>https://channel9.msdn.com/Shows/Azure-Friday/Azure-Resource-Manager-101-using-PowerShell-with-Guang-Yang/RSS</wfw:commentRss>
+      <category>Azure</category>
+    </item>
+  <item>
+      <title>Azure PowerShell 101 - Managing the Cloud from the Command Line</title>
+      <description><![CDATA[<p>In this video, Scott learns from Guang Yang about how to manage Azure from the PowerShell command line! We learn how to manage multiple&nbsp;accounts and subscriptions, and access any&nbsp;Azure resource.</p> <img src="http://m.webtrends.com/dcs1wotjh10000w0irc493s0e_6x1g/njs.gif?dcssip=channel9.msdn.com&dcsuri=https://channel9.msdn.com/Shows/Azure-Friday/feed/mp4high&WT.dl=0&WT.entryid=Entry:RSSView:2f5f93e38a3f4aea9de8a47201632264">]]></description>
+      <comments>https://channel9.msdn.com/Shows/Azure-Friday/Azure-PowerShell-101-Managing-the-Cloud-from-the-Command-Line</comments>
+      <itunes:summary>In this video, Scott learns from Guang Yang about how to manage Azure from the PowerShell command line! We learn how to manage multiple accounts and subscriptions, and access any Azure resource. </itunes:summary>
+      <itunes:duration>803</itunes:duration>
+      <link>https://channel9.msdn.com/Shows/Azure-Friday/Azure-PowerShell-101-Managing-the-Cloud-from-the-Command-Line</link>
+      <pubDate>Thu, 23 Apr 2015 23:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://channel9.msdn.com/Shows/Azure-Friday/Azure-PowerShell-101-Managing-the-Cloud-from-the-Command-Line</guid>
+      <media:thumbnail url="http://video.ch9.ms/ch9/022f/8e6823e7-0c69-4b8c-a3a0-aec713f5022f/AzurePowerShell101_100.jpg" height="56" width="100"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/022f/8e6823e7-0c69-4b8c-a3a0-aec713f5022f/AzurePowerShell101_220.jpg" height="123" width="220"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/022f/8e6823e7-0c69-4b8c-a3a0-aec713f5022f/AzurePowerShell101_512.jpg" height="288" width="512"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/022f/8e6823e7-0c69-4b8c-a3a0-aec713f5022f/AzurePowerShell101_960.jpg" height="540" width="960"></media:thumbnail>
+      <media:group>
+        <media:content url="http://video.ch9.ms/ch9/022f/8e6823e7-0c69-4b8c-a3a0-aec713f5022f/AzurePowerShell101.mp3" expression="full" duration="803" fileSize="12864123" type="audio/mp3" medium="audio"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/022f/8e6823e7-0c69-4b8c-a3a0-aec713f5022f/AzurePowerShell101.mp4" expression="full" duration="803" fileSize="19708021" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/022f/8e6823e7-0c69-4b8c-a3a0-aec713f5022f/AzurePowerShell101.webm" expression="full" duration="803" fileSize="51121266" type="video/webm" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/022f/8e6823e7-0c69-4b8c-a3a0-aec713f5022f/AzurePowerShell101_high.mp4" expression="full" duration="803" fileSize="79555454" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/022f/8e6823e7-0c69-4b8c-a3a0-aec713f5022f/AzurePowerShell101_mid.mp4" expression="full" duration="803" fileSize="54256599" type="video/mp4" medium="video"></media:content>
+      </media:group>      
+      <enclosure url="http://video.ch9.ms/ch9/022f/8e6823e7-0c69-4b8c-a3a0-aec713f5022f/AzurePowerShell101_high.mp4" length="79555454" type="video/mp4"></enclosure>
+      <dc:creator>Scott Hanselman</dc:creator>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <slash:comments>2</slash:comments>
+      <wfw:commentRss>https://channel9.msdn.com/Shows/Azure-Friday/Azure-PowerShell-101-Managing-the-Cloud-from-the-Command-Line/RSS</wfw:commentRss>
+      <category>Azure</category>
+      <category>PowerShell</category>
+    </item>
+  <item>
+      <title>Instrumenting your Web API using Application Insights with Victor Mushkatin</title>
+      <description><![CDATA[<p>Scott talks to&nbsp;Victor Mushkatin from the&nbsp;Application Insights&nbsp;team. They create a new Web API application to deploy to Azure, but they instrument that all with Application Insights. Victor show&nbsp;us how to instrumental the ASP.NET Web API and hook it&nbsp;directly into Application Insights to get&nbsp;use amounts of context. It's hugely useful when&nbsp;trying to understand&nbsp;production applications in the cloud.</p> <img src="http://m.webtrends.com/dcs1wotjh10000w0irc493s0e_6x1g/njs.gif?dcssip=channel9.msdn.com&dcsuri=https://channel9.msdn.com/Shows/Azure-Friday/feed/mp4high&WT.dl=0&WT.entryid=Entry:RSSView:797ef98dee4e46328fe9a472014a3d0b">]]></description>
+      <comments>https://channel9.msdn.com/Shows/Azure-Friday/Instrumenting-your-Web-API-using-Application-Insights-with-Victor-Mushkatin</comments>
+      <itunes:summary>Scott talks to Victor Mushkatin from the Application Insights team. They create a new Web API application to deploy to Azure, but they instrument that all with Application Insights. Victor show us how to instrumental the ASP.NET Web API and hook it directly into Application Insights to get use amounts of context. It&#39;s hugely useful when trying to understand production applications in the cloud. </itunes:summary>
+      <itunes:duration>947</itunes:duration>
+      <link>https://channel9.msdn.com/Shows/Azure-Friday/Instrumenting-your-Web-API-using-Application-Insights-with-Victor-Mushkatin</link>
+      <pubDate>Thu, 23 Apr 2015 23:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://channel9.msdn.com/Shows/Azure-Friday/Instrumenting-your-Web-API-using-Application-Insights-with-Victor-Mushkatin</guid>
+      <media:thumbnail url="http://video.ch9.ms/ch9/68d0/c78089a1-5611-4758-956a-5ead55b768d0/ApplicationInsightsVictor1_100.jpg" height="56" width="100"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/68d0/c78089a1-5611-4758-956a-5ead55b768d0/ApplicationInsightsVictor1_220.jpg" height="123" width="220"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/68d0/c78089a1-5611-4758-956a-5ead55b768d0/ApplicationInsightsVictor1_512.jpg" height="288" width="512"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/68d0/c78089a1-5611-4758-956a-5ead55b768d0/ApplicationInsightsVictor1_960.jpg" height="540" width="960"></media:thumbnail>
+      <media:group>
+        <media:content url="http://video.ch9.ms/ch9/68d0/c78089a1-5611-4758-956a-5ead55b768d0/ApplicationInsightsVictor1.mp3" expression="full" duration="947" fileSize="15162075" type="audio/mp3" medium="audio"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/68d0/c78089a1-5611-4758-956a-5ead55b768d0/ApplicationInsightsVictor1.mp4" expression="full" duration="947" fileSize="22432493" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/68d0/c78089a1-5611-4758-956a-5ead55b768d0/ApplicationInsightsVictor1.webm" expression="full" duration="947" fileSize="59709020" type="video/webm" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/68d0/c78089a1-5611-4758-956a-5ead55b768d0/ApplicationInsightsVictor1_high.mp4" expression="full" duration="947" fileSize="101410982" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/68d0/c78089a1-5611-4758-956a-5ead55b768d0/ApplicationInsightsVictor1_mid.mp4" expression="full" duration="947" fileSize="67375055" type="video/mp4" medium="video"></media:content>
+      </media:group>      
+      <enclosure url="http://video.ch9.ms/ch9/68d0/c78089a1-5611-4758-956a-5ead55b768d0/ApplicationInsightsVictor1_high.mp4" length="101410982" type="video/mp4"></enclosure>
+      <dc:creator>Scott Hanselman</dc:creator>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <slash:comments>3</slash:comments>
+      <wfw:commentRss>https://channel9.msdn.com/Shows/Azure-Friday/Instrumenting-your-Web-API-using-Application-Insights-with-Victor-Mushkatin/RSS</wfw:commentRss>
+      <category>Azure</category>
+    </item>
+  <item>
+      <title>Azure PowerShell 101 - Managing (and debugging) Azure WebSites</title>
+      <description><![CDATA[<p>In this special episode of Azure Friday, a demo goes bad and WE KEEP ROLLING. We want you to learn as we learn. When a deployment&nbsp;fails, Scott and Guang step out&nbsp;of the demo and do some debugging and learn interesting things about Azure, Azure Websites, Git, and PowerShell.</p><p>Also, much respect and a big shout out to&nbsp;Guang Yang&nbsp;who was a great sport for letting us share this&nbsp;teachable moment for us all!</p> <img src="http://m.webtrends.com/dcs1wotjh10000w0irc493s0e_6x1g/njs.gif?dcssip=channel9.msdn.com&dcsuri=https://channel9.msdn.com/Shows/Azure-Friday/feed/mp4high&WT.dl=0&WT.entryid=Entry:RSSView:b54fea63e07140a49297a472016e98b5">]]></description>
+      <comments>https://channel9.msdn.com/Shows/Azure-Friday/Azure-PowerShell-101-Managing-and-debugging-Azure-WebSites</comments>
+      <itunes:summary>In this special episode of Azure Friday, a demo goes bad and WE KEEP ROLLING. We want you to learn as we learn. When a deployment fails, Scott and Guang step out of the demo and do some debugging and learn interesting things about Azure, Azure Websites, Git, and PowerShell. Also, much respect and a big shout out to Guang Yang who was a great sport for letting us share this teachable moment for us all! </itunes:summary>
+      <itunes:duration>1113</itunes:duration>
+      <link>https://channel9.msdn.com/Shows/Azure-Friday/Azure-PowerShell-101-Managing-and-debugging-Azure-WebSites</link>
+      <pubDate>Thu, 16 Apr 2015 23:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://channel9.msdn.com/Shows/Azure-Friday/Azure-PowerShell-101-Managing-and-debugging-Azure-WebSites</guid>
+      <media:thumbnail url="http://video.ch9.ms/ch9/895b/028ce505-e5bf-4d5a-b4a1-8f214bb7895b/AzurePowerShell101WebSites_100.jpg" height="56" width="100"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/895b/028ce505-e5bf-4d5a-b4a1-8f214bb7895b/AzurePowerShell101WebSites_220.jpg" height="123" width="220"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/895b/028ce505-e5bf-4d5a-b4a1-8f214bb7895b/AzurePowerShell101WebSites_512.jpg" height="288" width="512"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/895b/028ce505-e5bf-4d5a-b4a1-8f214bb7895b/AzurePowerShell101WebSites_960.jpg" height="540" width="960"></media:thumbnail>
+      <media:group>
+        <media:content url="http://video.ch9.ms/ch9/895b/028ce505-e5bf-4d5a-b4a1-8f214bb7895b/AzurePowerShell101WebSites.mp3" expression="full" duration="1113" fileSize="17815684" type="audio/mp3" medium="audio"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/895b/028ce505-e5bf-4d5a-b4a1-8f214bb7895b/AzurePowerShell101WebSites.mp4" expression="full" duration="1113" fileSize="30470375" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/895b/028ce505-e5bf-4d5a-b4a1-8f214bb7895b/AzurePowerShell101WebSites.webm" expression="full" duration="1113" fileSize="84625105" type="video/webm" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/895b/028ce505-e5bf-4d5a-b4a1-8f214bb7895b/AzurePowerShell101WebSites_high.mp4" expression="full" duration="1113" fileSize="152675345" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/895b/028ce505-e5bf-4d5a-b4a1-8f214bb7895b/AzurePowerShell101WebSites_mid.mp4" expression="full" duration="1113" fileSize="96365209" type="video/mp4" medium="video"></media:content>
+      </media:group>      
+      <enclosure url="http://video.ch9.ms/ch9/895b/028ce505-e5bf-4d5a-b4a1-8f214bb7895b/AzurePowerShell101WebSites_high.mp4" length="152675345" type="video/mp4"></enclosure>
+      <dc:creator>Scott Hanselman</dc:creator>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <slash:comments>1</slash:comments>
+      <wfw:commentRss>https://channel9.msdn.com/Shows/Azure-Friday/Azure-PowerShell-101-Managing-and-debugging-Azure-WebSites/RSS</wfw:commentRss>
+      <category>Azure</category>
+      <category>PowerShell</category>
+    </item>
+  <item>
+      <title>Azure Data Factory 103 - Monitoring and Managing Big Data Workflows</title>
+      <description><![CDATA[<p>Scott talks to Gaurav Malhotra about the Azure Data Factory, specifically how to monitor and manage large scale data workflows. When moving massive amounts of data&nbsp;through a data&nbsp;workflow&nbsp;managing each step and the&nbsp;health of&nbsp;the system can be overwhelming. Azure Data Factory has sophisticated tools for data&nbsp;ingress, health monitoring, and management.</p> <img src="http://m.webtrends.com/dcs1wotjh10000w0irc493s0e_6x1g/njs.gif?dcssip=channel9.msdn.com&dcsuri=https://channel9.msdn.com/Shows/Azure-Friday/feed/mp4high&WT.dl=0&WT.entryid=Entry:RSSView:7013cdfbd1f6450f9ddba47201488f4d">]]></description>
+      <comments>https://channel9.msdn.com/Shows/Azure-Friday/Azure-Data-Factory-103-Monitoring-and-Managing-Big-Data-Workflows</comments>
+      <itunes:summary>Scott talks to Gaurav Malhotra about the Azure Data Factory, specifically how to monitor and manage large scale data workflows. When moving massive amounts of data through a data workflow managing each step and the health of the system can be overwhelming. Azure Data Factory has sophisticated tools for data ingress, health monitoring, and management. </itunes:summary>
+      <itunes:duration>495</itunes:duration>
+      <link>https://channel9.msdn.com/Shows/Azure-Friday/Azure-Data-Factory-103-Monitoring-and-Managing-Big-Data-Workflows</link>
+      <pubDate>Thu, 09 Apr 2015 23:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://channel9.msdn.com/Shows/Azure-Friday/Azure-Data-Factory-103-Monitoring-and-Managing-Big-Data-Workflows</guid>
+      <media:thumbnail url="http://video.ch9.ms/ch9/6695/1f4a9602-02f9-4ae8-937f-97b04ae56695/AzureDataFactory103_100.jpg" height="56" width="100"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/6695/1f4a9602-02f9-4ae8-937f-97b04ae56695/AzureDataFactory103_220.jpg" height="123" width="220"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/6695/1f4a9602-02f9-4ae8-937f-97b04ae56695/AzureDataFactory103_512.jpg" height="288" width="512"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/6695/1f4a9602-02f9-4ae8-937f-97b04ae56695/AzureDataFactory103_960.jpg" height="540" width="960"></media:thumbnail>
+      <media:group>
+        <media:content url="http://video.ch9.ms/ch9/6695/1f4a9602-02f9-4ae8-937f-97b04ae56695/AzureDataFactory103.mp3" expression="full" duration="495" fileSize="7935545" type="audio/mp3" medium="audio"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/6695/1f4a9602-02f9-4ae8-937f-97b04ae56695/AzureDataFactory103.mp4" expression="full" duration="495" fileSize="16377695" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/6695/1f4a9602-02f9-4ae8-937f-97b04ae56695/AzureDataFactory103.webm" expression="full" duration="495" fileSize="45784965" type="video/webm" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/6695/1f4a9602-02f9-4ae8-937f-97b04ae56695/AzureDataFactory103_high.mp4" expression="full" duration="495" fileSize="96555799" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/6695/1f4a9602-02f9-4ae8-937f-97b04ae56695/AzureDataFactory103_mid.mp4" expression="full" duration="495" fileSize="60891107" type="video/mp4" medium="video"></media:content>
+      </media:group>      
+      <enclosure url="http://video.ch9.ms/ch9/6695/1f4a9602-02f9-4ae8-937f-97b04ae56695/AzureDataFactory103_high.mp4" length="96555799" type="video/mp4"></enclosure>
+      <dc:creator>Scott Hanselman</dc:creator>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <slash:comments>0</slash:comments>
+      <wfw:commentRss>https://channel9.msdn.com/Shows/Azure-Friday/Azure-Data-Factory-103-Monitoring-and-Managing-Big-Data-Workflows/RSS</wfw:commentRss>
+      <category>Azure</category>
+    </item>
+  <item>
+      <title>Azure Data Factory 102 - Analyzing complex Churn Models with Azure Data Factory</title>
+      <description><![CDATA[<p>Scott talks to Wee Hyong Tok on how to analyze huge&nbsp;amounts of data with Azure Data Factory. Specifically, he&nbsp;shows us how to create a customer &quot;churn model&quot;&nbsp;so a theoretical&nbsp;telco provider can better understand how their wireless customers &quot;churn&quot; -&nbsp;why they leave and how they can get them back.</p> <img src="http://m.webtrends.com/dcs1wotjh10000w0irc493s0e_6x1g/njs.gif?dcssip=channel9.msdn.com&dcsuri=https://channel9.msdn.com/Shows/Azure-Friday/feed/mp4high&WT.dl=0&WT.entryid=Entry:RSSView:f4177472354f46b48293a47201477ef4">]]></description>
+      <comments>https://channel9.msdn.com/Shows/Azure-Friday/Azure-Data-Factory-102-Analyzing-complex-Churn-Models-with-Azure-Data-Factory</comments>
+      <itunes:summary>Scott talks to Wee Hyong Tok on how to analyze huge amounts of data with Azure Data Factory. Specifically, he shows us how to create a customer &amp;quot;churn model&amp;quot; so a theoretical telco provider can better understand how their wireless customers &amp;quot;churn&amp;quot; - why they leave and how they can get them back. </itunes:summary>
+      <itunes:duration>532</itunes:duration>
+      <link>https://channel9.msdn.com/Shows/Azure-Friday/Azure-Data-Factory-102-Analyzing-complex-Churn-Models-with-Azure-Data-Factory</link>
+      <pubDate>Thu, 09 Apr 2015 23:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://channel9.msdn.com/Shows/Azure-Friday/Azure-Data-Factory-102-Analyzing-complex-Churn-Models-with-Azure-Data-Factory</guid>
+      <media:thumbnail url="http://video.ch9.ms/ch9/ef34/94af1746-ebc5-45dd-a5ea-045a8a6eef34/AzureDataFactory102_100.jpg" height="56" width="100"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/ef34/94af1746-ebc5-45dd-a5ea-045a8a6eef34/AzureDataFactory102_220.jpg" height="123" width="220"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/ef34/94af1746-ebc5-45dd-a5ea-045a8a6eef34/AzureDataFactory102_512.jpg" height="288" width="512"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/ef34/94af1746-ebc5-45dd-a5ea-045a8a6eef34/AzureDataFactory102_960.jpg" height="540" width="960"></media:thumbnail>
+      <media:group>
+        <media:content url="http://video.ch9.ms/ch9/ef34/94af1746-ebc5-45dd-a5ea-045a8a6eef34/AzureDataFactory102.mp3" expression="full" duration="532" fileSize="8529489" type="audio/mp3" medium="audio"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/ef34/94af1746-ebc5-45dd-a5ea-045a8a6eef34/AzureDataFactory102.mp4" expression="full" duration="532" fileSize="16030964" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/ef34/94af1746-ebc5-45dd-a5ea-045a8a6eef34/AzureDataFactory102.webm" expression="full" duration="532" fileSize="49894671" type="video/webm" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/ef34/94af1746-ebc5-45dd-a5ea-045a8a6eef34/AzureDataFactory102_high.mp4" expression="full" duration="532" fileSize="113224476" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/ef34/94af1746-ebc5-45dd-a5ea-045a8a6eef34/AzureDataFactory102_mid.mp4" expression="full" duration="532" fileSize="68209015" type="video/mp4" medium="video"></media:content>
+      </media:group>      
+      <enclosure url="http://video.ch9.ms/ch9/ef34/94af1746-ebc5-45dd-a5ea-045a8a6eef34/AzureDataFactory102_high.mp4" length="113224476" type="video/mp4"></enclosure>
+      <dc:creator>Scott Hanselman</dc:creator>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <slash:comments>2</slash:comments>
+      <wfw:commentRss>https://channel9.msdn.com/Shows/Azure-Friday/Azure-Data-Factory-102-Analyzing-complex-Churn-Models-with-Azure-Data-Factory/RSS</wfw:commentRss>
+      <category>Azure</category>
+    </item>
+  <item>
+      <title>New Usability Improvements in the Azure Portal with Chandrika Shankarnarayan</title>
+      <description><![CDATA[<p>The new Azure portal is getting better and better.&nbsp;Chandrika Shankarnarayan wows Scott with the new Essentials panel, Part Gallery and settings improvement.</p> <img src="http://m.webtrends.com/dcs1wotjh10000w0irc493s0e_6x1g/njs.gif?dcssip=channel9.msdn.com&dcsuri=https://channel9.msdn.com/Shows/Azure-Friday/feed/mp4high&WT.dl=0&WT.entryid=Entry:RSSView:889a84523c17435ab815a46d0168d3c7">]]></description>
+      <comments>https://channel9.msdn.com/Shows/Azure-Friday/New-Usability-Improvements-in-the-Azure-Portal-with-Chandrika-Shankarnarayan</comments>
+      <itunes:summary>The new Azure portal is getting better and better. Chandrika Shankarnarayan wows Scott with the new Essentials panel, Part Gallery and settings improvement. </itunes:summary>
+      <itunes:duration>590</itunes:duration>
+      <link>https://channel9.msdn.com/Shows/Azure-Friday/New-Usability-Improvements-in-the-Azure-Portal-with-Chandrika-Shankarnarayan</link>
+      <pubDate>Thu, 02 Apr 2015 23:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://channel9.msdn.com/Shows/Azure-Friday/New-Usability-Improvements-in-the-Azure-Portal-with-Chandrika-Shankarnarayan</guid>
+      <media:thumbnail url="http://video.ch9.ms/ch9/261d/2cb09868-1ee1-486d-a844-63a3e775261d/azureportalusabilityimprovements_100.jpg" height="56" width="100"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/261d/2cb09868-1ee1-486d-a844-63a3e775261d/azureportalusabilityimprovements_220.jpg" height="123" width="220"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/261d/2cb09868-1ee1-486d-a844-63a3e775261d/azureportalusabilityimprovements_512.jpg" height="288" width="512"></media:thumbnail>
+      <media:thumbnail url="http://video.ch9.ms/ch9/261d/2cb09868-1ee1-486d-a844-63a3e775261d/azureportalusabilityimprovements_960.jpg" height="540" width="960"></media:thumbnail>
+      <media:group>
+        <media:content url="http://video.ch9.ms/ch9/261d/2cb09868-1ee1-486d-a844-63a3e775261d/azureportalusabilityimprovements.mp3" expression="full" duration="590" fileSize="9451917" type="audio/mp3" medium="audio"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/261d/2cb09868-1ee1-486d-a844-63a3e775261d/azureportalusabilityimprovements.mp4" expression="full" duration="590" fileSize="16126353" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/261d/2cb09868-1ee1-486d-a844-63a3e775261d/azureportalusabilityimprovements.webm" expression="full" duration="590" fileSize="47917427" type="video/webm" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/261d/2cb09868-1ee1-486d-a844-63a3e775261d/azureportalusabilityimprovements_high.mp4" expression="full" duration="590" fileSize="110886235" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/261d/2cb09868-1ee1-486d-a844-63a3e775261d/azureportalusabilityimprovements_mid.mp4" expression="full" duration="590" fileSize="66647388" type="video/mp4" medium="video"></media:content>
+      </media:group>      
+      <enclosure url="http://video.ch9.ms/ch9/261d/2cb09868-1ee1-486d-a844-63a3e775261d/azureportalusabilityimprovements_high.mp4" length="110886235" type="video/mp4"></enclosure>
+      <dc:creator>Azure</dc:creator>
+      <itunes:author>Azure</itunes:author>
+      <slash:comments>3</slash:comments>
+      <wfw:commentRss>https://channel9.msdn.com/Shows/Azure-Friday/New-Usability-Improvements-in-the-Azure-Portal-with-Chandrika-Shankarnarayan/RSS</wfw:commentRss>
+      <category>Azure</category>
+      <category>portal</category>
+    </item>    
+</channel>
+</rss>

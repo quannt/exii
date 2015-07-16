@@ -1,0 +1,19 @@
+<opml xmlns:podcastSearch="http://api.digitalpodcast.com/podcastsearchservice/output_specs.html" version="1.1">
+<head>
+<title>Digital Podcast Search - hanselman</title>
+<dateCreated>Weds, 13 July 2005 13:55:28 GMT</dateCreated>
+<dateModified>Thu, 16 Jul 2015 04:05:34 -0400</dateModified>
+<ownerName>Alex Nesbitt</ownerName>
+<ownerEmail>digitalpodcast@gmail.com</ownerEmail>
+<podcastSearch:format>opml</podcastSearch:format>
+<podcastSearch:totalResults>4</podcastSearch:totalResults>
+<podcastSearch:startIndex>0</podcastSearch:startIndex>
+<podcastSearch:itemsPerPage>10</podcastSearch:itemsPerPage>
+</head>
+<body>
+<outline text="Hanselminutes" type="link" url="http://feeds.feedburner.com/Hanselminutes"/>
+<outline text="Ratchet and The Geek" type="link" url="http://feeds.feedburner.com/ratchetandthegeek"/>
+<outline text="Windows Azure Friday (HD) - Channel 9" type="link" url="http://channel9.msdn.com/Shows/Windows-Azure-Friday/feed/mp4high"/>
+<outline text="Hanselminutes On 9 (HD) - Channel 9" type="link" url="http://channel9.msdn.com/Shows/HanselminutesOn9/feed/mp4high"/>
+</body>
+</opml>

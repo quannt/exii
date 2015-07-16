@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <ttl>30</ttl>
+    <title>Hanselminutes</title>
+    <link>http://www.hanselminutes.com</link>
+    <language>en-us</language>
+    <description>Hanselminutes - Fresh Air for Developers is a weekly talk show that brings interesting people together to talk about the web, culture, education, technology and more. Hosted by Scott Hanselman, this show promises fresh ideas and great people.</description>
+    <copyright>Copyright © 2006-2015 by Pwop Productions</copyright>
+    <managingEditor>scott@hanselman.com (Scott Hanselman)</managingEditor>
+    <webMaster>scott@hanselman.com (Scott Hanselman)</webMaster>
+    <rating>G</rating>
+    <pubDate>Thu, 16 Jul 2015 08:00:55 EDT</pubDate>
+    <lastBuildDate>Thu, 16 Jul 2015 08:00:55 EDT</lastBuildDate>
+    <cloud domain="http://www.hanselminutes.com" port="80" path="/RPC2" registerProcedure="pingMe" protocol="soap"></cloud>
+    <atom:link href="http://www.pwop.com%2ffeed.aspx%3fshow%3dHanselminutes" rel="self" type="application/rss+xml" />
+    <image>
+      <url>http://www.pwop.com/itunes_hanselminutes.jpg</url>
+      <title>Hanselminutes</title>
+      <link>http://www.hanselminutes.com</link>
+      <width>144</width>
+      <height>300</height>
+      <description>Hanselminutes - Fresh Air for Developers is a weekly talk show that brings interesting people together to talk about the web, culture, education, technology and more. Hosted by Scott Hanselman, this show promises fresh ideas and great people.</description>
+    </image>
+    <category>Programming</category>
+    <category>Talk</category>
+    <category>ASP.NET</category>
+    <category>Podcast</category>
+    <itunes:subtitle>Hanselminutes - Fresh Air for Developers is a weekly talk show that brings interesting people together to talk about the web, culture, education, technology and more. Hosted by Scott Hanselman, this show promises fresh ideas and great people.</itunes:subtitle>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:author>Scott Hanselman</itunes:author>
+    <itunes:summary>Hanselminutes - Fresh Air for Developers is a weekly talk show that brings interesting people together to talk about the web, culture, education, technology and more. Hosted by Scott Hanselman, this show promises fresh ideas and great people.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Scott Hanselman</itunes:name>
+      <itunes:email>scott@hanselman.com (Scott Hanselman)</itunes:email>
+    </itunes:owner>
+    <itunes:image href="http://www.pwop.com/itunes_hanselminutes.jpg" />
+    <itunes:category text="Technology">
+      <itunes:category text="Software How-To" />
+    </itunes:category>
+    <itunes:category text="Technology">
+      <itunes:category text="Gadgets" />
+    </itunes:category>
+    <itunes:category text="Technology">
+      <itunes:category text="Software How-To" />
+    </itunes:category>
+    <item>
+      <title>Debugging Windows Problems with Mario Hewardt</title>
+      <link>http://www.hanselminutes.com/default.aspx?ShowID=15479</link>
+      <pubDate>Fri, 10 Jul 2015 00:00:00 EDT</pubDate>
+      <description>Scott talks to expert Windows debugger Mario Hewardt about what it takes to be a good debugger. How does the .NET managed heap and garbage collector work and when should you just let it do its job? </description>
+      <source url="http://www.hanselminutes.com/default.aspx?ShowID=15479">Hanselminutes</source>
+      <guid isPermaLink="true">http://www.hanselminutes.com/default.aspx?ShowID=15479</guid>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <itunes:subtitle>Hanselminutes - Fresh Air for Developers is a weekly talk show that brings interesting people together to talk about the web, culture, education, technology and more. Hosted by Scott Hanselman, this show promises fresh ideas and great people.</itunes:subtitle>
+      <itunes:summary>Scott talks to expert Windows debugger Mario Hewardt about what it takes to be a good debugger. How does the .NET managed heap and garbage collector work and when should you just let it do its job? </itunes:summary>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/hanselminutes/hanselminutes_0483.mp3" length="35275819" type="audio/mp3" />
+      <itunes:duration>00:35:00</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+    <item>
+      <title>Relationships, Geek Culture, and Raising Nerds with Anjuan Simmons</title>
+      <link>http://www.hanselminutes.com/default.aspx?ShowID=15478</link>
+      <pubDate>Fri, 03 Jul 2015 00:00:00 EDT</pubDate>
+      <description>Scott sits down with Technical Project Manager and Conference Speaker Anjuan Simmons to talk about the rise of "Nerdland" and fan culture, the difficulties raised when Geeks marry Normals, and how we pass our fandom on to our kids.</description>
+      <source url="http://www.hanselminutes.com/default.aspx?ShowID=15478">Hanselminutes</source>
+      <guid isPermaLink="true">http://www.hanselminutes.com/default.aspx?ShowID=15478</guid>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <itunes:subtitle>Hanselminutes - Fresh Air for Developers is a weekly talk show that brings interesting people together to talk about the web, culture, education, technology and more. Hosted by Scott Hanselman, this show promises fresh ideas and great people.</itunes:subtitle>
+      <itunes:summary>Scott sits down with Technical Project Manager and Conference Speaker Anjuan Simmons to talk about the rise of "Nerdland" and fan culture, the difficulties raised when Geeks marry Normals, and how we pass our fandom on to our kids.</itunes:summary>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/hanselminutes/hanselminutes_0482.mp3" length="33294567" type="audio/mp3" />
+      <itunes:duration>00:34:00</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+    <item>
+      <title>Tessel.io - Making the Internet of things with JavaScript and Kelsey Breseman</title>
+      <link>http://www.hanselminutes.com/default.aspx?ShowID=15477</link>
+      <pubDate>Thu, 25 Jun 2015 00:00:00 EDT</pubDate>
+      <description>Scott talks to Tessel's Kelsey Breseman about the Tessel 2 and now this little $35 board makes making even more accessible! If you know JavaScript, you already know how to program a Tessel.</description>
+      <source url="http://www.hanselminutes.com/default.aspx?ShowID=15477">Hanselminutes</source>
+      <guid isPermaLink="true">http://www.hanselminutes.com/default.aspx?ShowID=15477</guid>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <itunes:subtitle>Hanselminutes - Fresh Air for Developers is a weekly talk show that brings interesting people together to talk about the web, culture, education, technology and more. Hosted by Scott Hanselman, this show promises fresh ideas and great people.</itunes:subtitle>
+      <itunes:summary>Scott talks to Tessel's Kelsey Breseman about the Tessel 2 and now this little $35 board makes making even more accessible! If you know JavaScript, you already know how to program a Tessel.</itunes:summary>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/hanselminutes/hanselminutes_0481.mp3" length="32203694" type="audio/mp3" />
+      <itunes:duration>00:33:00</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+    <item>
+      <title>Virtual Reality today with Andreia Gaita</title>
+      <link>http://www.hanselminutes.com/default.aspx?ShowID=15476</link>
+      <pubDate>Fri, 19 Jun 2015 00:00:00 EDT</pubDate>
+      <description>Scott talks to former Unity developer and current Githubber Andreia Gaita about Virtual Reality. Why is it so compelling? Why do we want so badly to live in "Snow Crash?" Andreia talks about her first experience in an Oculus Rift VR system and when she thinks off the shelf VR will be available.</description>
+      <source url="http://www.hanselminutes.com/default.aspx?ShowID=15476">Hanselminutes</source>
+      <guid isPermaLink="true">http://www.hanselminutes.com/default.aspx?ShowID=15476</guid>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <itunes:subtitle>Hanselminutes - Fresh Air for Developers is a weekly talk show that brings interesting people together to talk about the web, culture, education, technology and more. Hosted by Scott Hanselman, this show promises fresh ideas and great people.</itunes:subtitle>
+      <itunes:summary>Scott talks to former Unity developer and current Githubber Andreia Gaita about Virtual Reality. Why is it so compelling? Why do we want so badly to live in "Snow Crash?" Andreia talks about her first experience in an Oculus Rift VR system and when she thinks off the shelf VR will be available.</itunes:summary>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/hanselminutes/hanselminutes_0480.mp3" length="37815339" type="audio/mp3" />
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+    <item>
+      <title>Building Community around the XPRIZE with Jono Bacon</title>
+      <link>http://www.hanselminutes.com/default.aspx?ShowID=15475</link>
+      <pubDate>Fri, 12 Jun 2015 00:00:00 EDT</pubDate>
+      <description>Jono Bacon wrote the book on Community with "The Art of Community" and worked at Canonical on Ubuntu's community for years. Now he's headed to the XPRIZE organization to help build their community. How do you create a community around robots on the moon and tricoders?</description>
+      <source url="http://www.hanselminutes.com/default.aspx?ShowID=15475">Hanselminutes</source>
+      <guid isPermaLink="true">http://www.hanselminutes.com/default.aspx?ShowID=15475</guid>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <itunes:subtitle>Hanselminutes - Fresh Air for Developers is a weekly talk show that brings interesting people together to talk about the web, culture, education, technology and more. Hosted by Scott Hanselman, this show promises fresh ideas and great people.</itunes:subtitle>
+      <itunes:summary>Jono Bacon wrote the book on Community with "The Art of Community" and worked at Canonical on Ubuntu's community for years. Now he's headed to the XPRIZE organization to help build their community. How do you create a community around robots on the moon and tricoders?</itunes:summary>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/hanselminutes/hanselminutes_0479.mp3" length="36382157" type="audio/mp3" />
+      <itunes:duration>00:36:00</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+    <item>
+      <title>Hanselminutiae LIVE 16 with Richard Campbell</title>
+      <link>http://www.hanselminutes.com/default.aspx?ShowID=15474</link>
+      <pubDate>Fri, 05 Jun 2015 00:00:00 EDT</pubDate>
+      <description>This episode of Hanselminutiae LIVE 16 with Richard Campbell was recorded on Google Hangouts! You can check it out at Scott's YouTube Channel at http://youtube.com/shanselman</description>
+      <source url="http://www.hanselminutes.com/default.aspx?ShowID=15474">Hanselminutes</source>
+      <guid isPermaLink="true">http://www.hanselminutes.com/default.aspx?ShowID=15474</guid>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <itunes:subtitle>Hanselminutes - Fresh Air for Developers is a weekly talk show that brings interesting people together to talk about the web, culture, education, technology and more. Hosted by Scott Hanselman, this show promises fresh ideas and great people.</itunes:subtitle>
+      <itunes:summary>This episode of Hanselminutiae LIVE 16 with Richard Campbell was recorded on Google Hangouts! You can check it out at Scott's YouTube Channel at http://youtube.com/shanselman</itunes:summary>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/hanselminutes/hanselminutes_0478.mp3" length="35789783" type="audio/mp3" />
+      <itunes:duration>00:37:00</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+    <item>
+      <title>Getting Started with SVG with Sara Soueidan </title>
+      <link>http://www.hanselminutes.com/default.aspx?ShowID=15473</link>
+      <pubDate>Fri, 29 May 2015 00:00:00 EDT</pubDate>
+      <description>Scott talks to web developer Sara Soueidan about the state of SVG on the web today. Is SVG mainstream and ready for you to use in your web apps today? Sara is the author of the Codrops CSS Reference, and a co-author of the Smashing Book #5 - a book that covers time-saving, practical techniques for crafting fast, maintainable, and scalable responsive websites.</description>
+      <source url="http://www.hanselminutes.com/default.aspx?ShowID=15473">Hanselminutes</source>
+      <guid isPermaLink="true">http://www.hanselminutes.com/default.aspx?ShowID=15473</guid>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <itunes:subtitle>Hanselminutes - Fresh Air for Developers is a weekly talk show that brings interesting people together to talk about the web, culture, education, technology and more. Hosted by Scott Hanselman, this show promises fresh ideas and great people.</itunes:subtitle>
+      <itunes:summary>Scott talks to web developer Sara Soueidan about the state of SVG on the web today. Is SVG mainstream and ready for you to use in your web apps today? Sara is the author of the Codrops CSS Reference, and a co-author of the Smashing Book #5 - a book that covers time-saving, practical techniques for crafting fast, maintainable, and scalable responsive websites.</itunes:summary>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/hanselminutes/hanselminutes_0477.mp3" length="35895527" type="audio/mp3" />
+      <itunes:duration>00:37:00</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+    <item>
+      <title>Getting started making NodeBots and Wearables with Kassandra Perch</title>
+      <link>http://www.hanselminutes.com/default.aspx?ShowID=15472</link>
+      <pubDate>Fri, 22 May 2015 00:00:00 EDT</pubDate>
+      <description>Today we talk to Kassandra Perch from Bocoup about the state of node-based robotics and wearables in 2015. Back in episode 391, we talked to Raquel Vélez about controlling robots with Node.js.  Nodebots have blown up and it's easier than ever to jump in and make your own!</description>
+      <source url="http://www.hanselminutes.com/default.aspx?ShowID=15472">Hanselminutes</source>
+      <guid isPermaLink="true">http://www.hanselminutes.com/default.aspx?ShowID=15472</guid>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <itunes:subtitle>Hanselminutes - Fresh Air for Developers is a weekly talk show that brings interesting people together to talk about the web, culture, education, technology and more. Hosted by Scott Hanselman, this show promises fresh ideas and great people.</itunes:subtitle>
+      <itunes:summary>Today we talk to Kassandra Perch from Bocoup about the state of node-based robotics and wearables in 2015. Back in episode 391, we talked to Raquel Vélez about controlling robots with Node.js.  Nodebots have blown up and it's easier than ever to jump in and make your own!</itunes:summary>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/hanselminutes/hanselminutes_0476.mp3" length="35181235" type="audio/mp3" />
+      <itunes:duration>00:36:00</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+    <item>
+      <title>Accessibility (a11y) with OpenDirective's Steve Lee</title>
+      <link>http://www.hanselminutes.com/default.aspx?ShowID=15471</link>
+      <pubDate>Fri, 15 May 2015 00:00:00 EDT</pubDate>
+      <description>Scott talks to accessibility advocate Steve Lee about today's accessible web. We've all added alt tags around images (or we should) but what does a modern AND accessible application require? Steve educates Scott on ARIA, WCAG, WAI and other TLAs (three letter acronyms) and gives us practical actionable advice on how we can make the web available to everyone.</description>
+      <source url="http://www.hanselminutes.com/default.aspx?ShowID=15471">Hanselminutes</source>
+      <guid isPermaLink="true">http://www.hanselminutes.com/default.aspx?ShowID=15471</guid>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <itunes:subtitle>Hanselminutes - Fresh Air for Developers is a weekly talk show that brings interesting people together to talk about the web, culture, education, technology and more. Hosted by Scott Hanselman, this show promises fresh ideas and great people.</itunes:subtitle>
+      <itunes:summary>Scott talks to accessibility advocate Steve Lee about today's accessible web. We've all added alt tags around images (or we should) but what does a modern AND accessible application require? Steve educates Scott on ARIA, WCAG, WAI and other TLAs (three letter acronyms) and gives us practical actionable advice on how we can make the web available to everyone.</itunes:summary>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/hanselminutes/hanselminutes_0475.mp3" length="35460910" type="audio/mp3" />
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+    <item>
+      <title>Saving Bletchley Park with Dr. Sue Black</title>
+      <link>http://www.hanselminutes.com/default.aspx?ShowID=15470</link>
+      <pubDate>Fri, 08 May 2015 00:00:00 EDT</pubDate>
+      <description>Bletchley Park is where brilliant people worked tirelessly to break the German Enigma code, and others. More importantly, it wasn't just Alan Turing. In fact, thousands of people, 80 percent of them women, worked at Bletchley Park. Scott talks to Dr. Sue Black, who used social media to raise awareness of the current state of Bletchley Park and help return the site to solvency. </description>
+      <source url="http://www.hanselminutes.com/default.aspx?ShowID=15470">Hanselminutes</source>
+      <guid isPermaLink="true">http://www.hanselminutes.com/default.aspx?ShowID=15470</guid>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <itunes:subtitle>Hanselminutes - Fresh Air for Developers is a weekly talk show that brings interesting people together to talk about the web, culture, education, technology and more. Hosted by Scott Hanselman, this show promises fresh ideas and great people.</itunes:subtitle>
+      <itunes:summary>Bletchley Park is where brilliant people worked tirelessly to break the German Enigma code, and others. More importantly, it wasn't just Alan Turing. In fact, thousands of people, 80 percent of them women, worked at Bletchley Park. Scott talks to Dr. Sue Black, who used social media to raise awareness of the current state of Bletchley Park and help return the site to solvency. </itunes:summary>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/hanselminutes/hanselminutes_0474.mp3" length="30646438" type="audio/mp3" />
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+    <item>
+      <title>Developing StaffPad, a new class of music notation application with Dr. Matthew Tesch</title>
+      <link>http://www.hanselminutes.com/default.aspx?ShowID=14471</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 EDT</pubDate>
+      <description>Scott talks to Dr. Matthew Tesch of Carnegie Mellon University about StaffPad, an new music notation application for Windows that he developed with composer David William Hearn. StaffPadd is for pen-and-touch based Windows 8 tablets like the Surface Pro and written largely in C#.</description>
+      <source url="http://www.hanselminutes.com/default.aspx?ShowID=14471">Hanselminutes</source>
+      <guid isPermaLink="true">http://www.hanselminutes.com/default.aspx?ShowID=14471</guid>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <itunes:subtitle>Hanselminutes - Fresh Air for Developers is a weekly talk show that brings interesting people together to talk about the web, culture, education, technology and more. Hosted by Scott Hanselman, this show promises fresh ideas and great people.</itunes:subtitle>
+      <itunes:summary>Scott talks to Dr. Matthew Tesch of Carnegie Mellon University about StaffPad, an new music notation application for Windows that he developed with composer David William Hearn. StaffPadd is for pen-and-touch based Windows 8 tablets like the Surface Pro and written largely in C#.</itunes:summary>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/hanselminutes/hanselminutes_0473.mp3" length="34762169" type="audio/mp3" />
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+    <item>
+      <title>Inside the Akka.NET open source project and the Actor Model with Aaron Stannard</title>
+      <link>http://www.hanselminutes.com/default.aspx?ShowID=14470</link>
+      <pubDate>Thu, 23 Apr 2015 00:00:00 EDT</pubDate>
+      <description>Akka.NET is a toolkit and runtime for building highly concurrent, distributed, and fault tolerant event-driven applications on .NET &amp; Mono. This community-driven port brings C# &amp; F# developers the capabilities of the original Akka framework in Java/Scala. Scott talks to co-founder Aaron Stannard about the project, the Actor model, and distributed development in .NET.</description>
+      <source url="http://www.hanselminutes.com/default.aspx?ShowID=14470">Hanselminutes</source>
+      <guid isPermaLink="true">http://www.hanselminutes.com/default.aspx?ShowID=14470</guid>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <itunes:subtitle>Hanselminutes - Fresh Air for Developers is a weekly talk show that brings interesting people together to talk about the web, culture, education, technology and more. Hosted by Scott Hanselman, this show promises fresh ideas and great people.</itunes:subtitle>
+      <itunes:summary>Akka.NET is a toolkit and runtime for building highly concurrent, distributed, and fault tolerant event-driven applications on .NET &amp; Mono. This community-driven port brings C# &amp; F# developers the capabilities of the original Akka framework in Java/Scala. Scott talks to co-founder Aaron Stannard about the project, the Actor model, and distributed development in .NET.</itunes:summary>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/hanselminutes/hanselminutes_0472.mp3" length="33221466" type="audio/mp3" />
+      <itunes:duration>00:34:00</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+    <item>
+      <title>Usability and the Human Factor with Dr. Danielle Smith</title>
+      <link>http://www.hanselminutes.com/default.aspx?ShowID=14469</link>
+      <pubDate>Fri, 17 Apr 2015 00:00:00 EDT</pubDate>
+      <description>Dr. Danielle Smith is a Human Factors professional with over 10 years' experience in usability research and user experience design. She has a PhD in Industrial/Organizational Psychology with a concentration in Human Factors. She and Scott talk about the state of User Experience research today. What data are we using and what important data are we missing? </description>
+      <source url="http://www.hanselminutes.com/default.aspx?ShowID=14469">Hanselminutes</source>
+      <guid isPermaLink="true">http://www.hanselminutes.com/default.aspx?ShowID=14469</guid>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <itunes:subtitle>Hanselminutes - Fresh Air for Developers is a weekly talk show that brings interesting people together to talk about the web, culture, education, technology and more. Hosted by Scott Hanselman, this show promises fresh ideas and great people.</itunes:subtitle>
+      <itunes:summary>Dr. Danielle Smith is a Human Factors professional with over 10 years' experience in usability research and user experience design. She has a PhD in Industrial/Organizational Psychology with a concentration in Human Factors. She and Scott talk about the state of User Experience research today. What data are we using and what important data are we missing? </itunes:summary>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/hanselminutes/hanselminutes_0471.mp3" length="30218471" type="audio/mp3" />
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+    <item>
+      <title>Building a better 3D printer (with software!) with OctoPrint’s Gina Häußge</title>
+      <link>http://www.hanselminutes.com/default.aspx?ShowID=14468</link>
+      <pubDate>Fri, 10 Apr 2015 00:00:00 EDT</pubDate>
+      <description>Scott talks to Gina Häußge, creator of OctoPrint. In very short order OctoPrint has gone from a small side project to Gina's full time open source job! OctoPrint gives your 3D Printer a camera, a print queue, visualizers, temperature control and much more! Gina shares her journey in this Maker episode.</description>
+      <source url="http://www.hanselminutes.com/default.aspx?ShowID=14468">Hanselminutes</source>
+      <guid isPermaLink="true">http://www.hanselminutes.com/default.aspx?ShowID=14468</guid>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <itunes:subtitle>Hanselminutes - Fresh Air for Developers is a weekly talk show that brings interesting people together to talk about the web, culture, education, technology and more. Hosted by Scott Hanselman, this show promises fresh ideas and great people.</itunes:subtitle>
+      <itunes:summary>Scott talks to Gina Häußge, creator of OctoPrint. In very short order OctoPrint has gone from a small side project to Gina's full time open source job! OctoPrint gives your 3D Printer a camera, a print queue, visualizers, temperature control and much more! Gina shares her journey in this Maker episode.</itunes:summary>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/hanselminutes/hanselminutes_0470.mp3" length="39657160" type="audio/mp3" />
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+    <item>
+      <title>Bitcoin Explained with Rhian Lewis </title>
+      <link>http://www.hanselminutes.com/default.aspx?ShowID=13470</link>
+      <pubDate>Fri, 03 Apr 2015 00:00:00 EDT</pubDate>
+      <description>Rhian is the co-developer of CountMyCrypto and the co-host of London's Bitcoin Women. She sits down with Scott and catches him up on the state of Bitcoin, Altcoin, and some of the tech behind Blockchain technology.</description>
+      <source url="http://www.hanselminutes.com/default.aspx?ShowID=13470">Hanselminutes</source>
+      <guid isPermaLink="true">http://www.hanselminutes.com/default.aspx?ShowID=13470</guid>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <itunes:subtitle>Hanselminutes - Fresh Air for Developers is a weekly talk show that brings interesting people together to talk about the web, culture, education, technology and more. Hosted by Scott Hanselman, this show promises fresh ideas and great people.</itunes:subtitle>
+      <itunes:summary>Rhian is the co-developer of CountMyCrypto and the co-host of London's Bitcoin Women. She sits down with Scott and catches him up on the state of Bitcoin, Altcoin, and some of the tech behind Blockchain technology.</itunes:summary>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/hanselminutes/hanselminutes_0469.mp3" length="32080396" type="audio/mp3" />
+      <itunes:duration>00:33:00</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+    <item>
+      <title>March Is For Makers: Electronics and Electricity 101 with Andrew J. Dupree</title>
+      <link>http://www.hanselminutes.com/default.aspx?ShowID=13469</link>
+      <pubDate>Fri, 27 Mar 2015 00:00:00 EDT</pubDate>
+      <description>This week hardware engineer Andrew J. Dupree gives Scott a lesson in Electrical Engineering 101. Andrew has a Master of Science in Computer Hardware Engineering from Stanford and works at Mindtribe on cool hardware and technology strategy.
+
+This is the fourth episode in our month-long podcast series March Is For Makers. We're teaming up with CodeNewbie to give you a month of great hardware and maker content. Check us out at http://marchisformakers.com and subscribe to both podcasts! </description>
+      <source url="http://www.hanselminutes.com/default.aspx?ShowID=13469">Hanselminutes</source>
+      <guid isPermaLink="true">http://www.hanselminutes.com/default.aspx?ShowID=13469</guid>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <itunes:subtitle>Hanselminutes - Fresh Air for Developers is a weekly talk show that brings interesting people together to talk about the web, culture, education, technology and more. Hosted by Scott Hanselman, this show promises fresh ideas and great people.</itunes:subtitle>
+      <itunes:summary>This week hardware engineer Andrew J. Dupree gives Scott a lesson in Electrical Engineering 101. Andrew has a Master of Science in Computer Hardware Engineering from Stanford and works at Mindtribe on cool hardware and technology strategy.
+
+This is the fourth episode in our month-long podcast series March Is For Makers. We're teaming up with CodeNewbie to give you a month of great hardware and maker content. Check us out at http://marchisformakers.com and subscribe to both podcasts! </itunes:summary>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/hanselminutes/hanselminutes_0468.mp3" length="38025865" type="audio/mp3" />
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+    <item>
+      <title>March Is For Makers: Learning Robots with Dr. Ayanna Howard of Zyrobotics</title>
+      <link>http://www.hanselminutes.com/default.aspx?ShowID=13468</link>
+      <pubDate>Fri, 20 Mar 2015 00:00:00 EDT</pubDate>
+      <description>Today we talk to Dr. Ayanna Howard about robots. Dr. Howard has a Ph.D. in Electrical Engineering as well as an MBA from Claremont, and she teaches at the  School of Electrical and Computer Engineering at the Georgia Institute of Technology. She is also the Founder and CTO of Zyrobotics, a technology startup dedicated to inclusive technology inventions. Dr. Howard also worked with NASA JPL on the Mars Rovers. 
+
+This is the third episode in our month-long podcast series March Is For Makers. We're teaming up with CodeNewbie to give you a month of great hardware and maker content. Check us out at http://marchisformakers.com and subscribe to both podcasts! </description>
+      <source url="http://www.hanselminutes.com/default.aspx?ShowID=13468">Hanselminutes</source>
+      <guid isPermaLink="true">http://www.hanselminutes.com/default.aspx?ShowID=13468</guid>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <itunes:subtitle>Hanselminutes - Fresh Air for Developers is a weekly talk show that brings interesting people together to talk about the web, culture, education, technology and more. Hosted by Scott Hanselman, this show promises fresh ideas and great people.</itunes:subtitle>
+      <itunes:summary>Today we talk to Dr. Ayanna Howard about robots. Dr. Howard has a Ph.D. in Electrical Engineering as well as an MBA from Claremont, and she teaches at the  School of Electrical and Computer Engineering at the Georgia Institute of Technology. She is also the Founder and CTO of Zyrobotics, a technology startup dedicated to inclusive technology inventions. Dr. Howard also worked with NASA JPL on the Mars Rovers. 
+
+This is the third episode in our month-long podcast series March Is For Makers. We're teaming up with CodeNewbie to give you a month of great hardware and maker content. Check us out at http://marchisformakers.com and subscribe to both podcasts! </itunes:summary>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/hanselminutes/hanselminutes_0467.mp3" length="35915213" type="audio/mp3" />
+      <itunes:duration>00:36:00</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+    <item>
+      <title>March Is For Makers: Enclosures for your DIY hardware projects with Bertrand Le Roy</title>
+      <link>http://www.hanselminutes.com/default.aspx?ShowID=13467</link>
+      <pubDate>Fri, 13 Mar 2015 00:00:00 EDT</pubDate>
+      <description>Bertrand Le Roy has a PhD in theoretical physics and deep experience in both software and hardware development. His startup Nwazet sold hardware and software for makers. He talks to Scott about the importance of putting your DIY project in an enclosure you can count on. They also discuss 3D printing, CNC Machines, Laser Cutters, Makerspaces, and more!
+
+This is our second episode in our month-long podcast series March Is For Makers. We're teaming up with CodeNewbie to give you a month of great hardware and maker content. Check us out at http://marchisformakers.com and subscribe to both podcasts! </description>
+      <source url="http://www.hanselminutes.com/default.aspx?ShowID=13467">Hanselminutes</source>
+      <guid isPermaLink="true">http://www.hanselminutes.com/default.aspx?ShowID=13467</guid>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <itunes:subtitle>Hanselminutes - Fresh Air for Developers is a weekly talk show that brings interesting people together to talk about the web, culture, education, technology and more. Hosted by Scott Hanselman, this show promises fresh ideas and great people.</itunes:subtitle>
+      <itunes:summary>Bertrand Le Roy has a PhD in theoretical physics and deep experience in both software and hardware development. His startup Nwazet sold hardware and software for makers. He talks to Scott about the importance of putting your DIY project in an enclosure you can count on. They also discuss 3D printing, CNC Machines, Laser Cutters, Makerspaces, and more!
+
+This is our second episode in our month-long podcast series March Is For Makers. We're teaming up with CodeNewbie to give you a month of great hardware and maker content. Check us out at http://marchisformakers.com and subscribe to both podcasts! </itunes:summary>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/hanselminutes/hanselminutes_0466.mp3" length="32300660" type="audio/mp3" />
+      <itunes:duration>00:33:00</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+    <item>
+      <title>March Is For Makers: 3D Printing with Printrbot's Brook Drumm</title>
+      <link>http://www.hanselminutes.com/default.aspx?ShowID=13466</link>
+      <pubDate>Fri, 06 Mar 2015 00:00:00 EDT</pubDate>
+      <description>Brook Drumm took a successful Kickstarter and turned it into a fantastic business making Printrbot 3D Printers. Brook is also a co-star on the new Science Channel TV show "All-American Makers." 
+
+This is our first episode in our month-long podcast series March Is For Makers. We're teaming up with CodeNewbie to give you a month of great hardware and maker content. Check us out at http://marchisformakers.com and subscribe to both podcasts! </description>
+      <source url="http://www.hanselminutes.com/default.aspx?ShowID=13466">Hanselminutes</source>
+      <guid isPermaLink="true">http://www.hanselminutes.com/default.aspx?ShowID=13466</guid>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <itunes:subtitle>Hanselminutes - Fresh Air for Developers is a weekly talk show that brings interesting people together to talk about the web, culture, education, technology and more. Hosted by Scott Hanselman, this show promises fresh ideas and great people.</itunes:subtitle>
+      <itunes:summary>Brook Drumm took a successful Kickstarter and turned it into a fantastic business making Printrbot 3D Printers. Brook is also a co-star on the new Science Channel TV show "All-American Makers." 
+
+This is our first episode in our month-long podcast series March Is For Makers. We're teaming up with CodeNewbie to give you a month of great hardware and maker content. Check us out at http://marchisformakers.com and subscribe to both podcasts! </itunes:summary>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/hanselminutes/hanselminutes_0465.mp3" length="35228088" type="audio/mp3" />
+      <itunes:duration>00:36:00</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+    <item>
+      <title>Living Clojure with Carin Meier</title>
+      <link>http://www.hanselminutes.com/default.aspx?ShowID=13465</link>
+      <pubDate>Fri, 27 Feb 2015 00:00:00 EDT</pubDate>
+      <description>Scott talks to Clojure expert Carin Meier about how to get started with this powerful functional language. Carin worked in Java for 15 years and switched to Clojure and loved it so much she wrote a book! 'Living Clojure' comes out April of 2015.</description>
+      <source url="http://www.hanselminutes.com/default.aspx?ShowID=13465">Hanselminutes</source>
+      <guid isPermaLink="true">http://www.hanselminutes.com/default.aspx?ShowID=13465</guid>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <itunes:subtitle>Hanselminutes - Fresh Air for Developers is a weekly talk show that brings interesting people together to talk about the web, culture, education, technology and more. Hosted by Scott Hanselman, this show promises fresh ideas and great people.</itunes:subtitle>
+      <itunes:summary>Scott talks to Clojure expert Carin Meier about how to get started with this powerful functional language. Carin worked in Java for 15 years and switched to Clojure and loved it so much she wrote a book! 'Living Clojure' comes out April of 2015.</itunes:summary>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/hanselminutes/hanselminutes_0464.mp3" length="31248239" type="audio/mp3" />
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+  </channel>
+</rss>
